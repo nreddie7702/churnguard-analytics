@@ -1,0 +1,13 @@
+[customers] Standardized country names -> 6 unique countries (was inconsistent free text before)
+[customers] Removed 20 duplicate customer records (matched on company_name + signup_date)
+[customers] 1218 -> 1198 rows
+[subscriptions] Fixed 9 rows with zero/negative mrr_value (replaced with plan-tier median MRR)
+[subscriptions] Cascaded delete: removed 24 subscription rows belonging to duplicate customers
+[subscriptions] 1334 -> 1310 rows
+[invoices] Standardized 'amount' to absolute value
+[invoices] Cascaded delete: removed 154 invoice rows tied to duplicate-customer subscriptions
+[invoices] 12088 -> 11934 rows
+[usage_events] Removed 169 orphaned rows (customer_id not in customers table — includes injected orphans + cascaded duplicate removals)
+[usage_events] 12103 -> 11934 rows
+[support_tickets] Cascaded delete: removed 35 ticket rows belonging to duplicate customers (2457 -> 2422 rows)
+[support_tickets] Flagged 294 unresolved tickets (kept — this is real signal, not a data error)

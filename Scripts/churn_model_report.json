@@ -1,0 +1,46 @@
+{
+  "features_used": [
+    "avg_csat",
+    "tenure_days",
+    "avg_logins",
+    "failure_rate"
+  ],
+  "data_cleaning": {
+    "avg_csat_missing_imputed": 235,
+    "tenure_days_negative_clipped": 49
+  },
+  "train_rows": 958,
+  "test_rows": 240,
+  "class_balance_churn_rate": 0.4725,
+  "model_comparison": [
+    {
+      "model": "Logistic Regression",
+      "accuracy": 0.7833,
+      "precision": 0.8081,
+      "recall": 0.708,
+      "f1": 0.7547,
+      "roc_auc": 0.8235
+    },
+    {
+      "model": "GradientBoosting",
+      "accuracy": 0.8708,
+      "precision": 0.9457,
+      "recall": 0.7699,
+      "f1": 0.8488,
+      "roc_auc": 0.9269
+    }
+  ],
+  "best_model": "GradientBoosting",
+  "logistic_regression_coefficients": {
+    "avg_csat": -1.2404,
+    "failure_rate": 1.1359,
+    "avg_logins": -0.8419,
+    "tenure_days": -0.6888
+  },
+  "xgboost_feature_importance": {
+    "tenure_days": 0.3496,
+    "avg_csat": 0.3162,
+    "avg_logins": 0.2093,
+    "failure_rate": 0.1249
+  }
+}

@@ -1,0 +1,1219 @@
+customer_id,company_name,industry,company_size,country,signup_date,acquisition_channel,cac
+1,"Rodriguez, Figueroa and Sanchez",Retail,Small,Canada,2025-04-01,Referral,86.64
+2,Doyle Ltd,Edtech,Mid-Market,DE,2024-11-01,Referral,129.57
+3,"Mcclain, Miller and Henderson",Fintech,Small,Canada,2024-10-01,Partner,256.43
+4,Davis and Sons,Legal,Small,India,2025-03-01,Paid Search,390.92
+5,"Guzman, Hoffman and Baldwin",Hospitality,Mid-Market,United States,2025-07-01,Organic,41.21
+6,"Gardner, Robinson and Lawrence",Retail,Small,IN,2025-02-01,Referral,55.81
+7,Blake and Sons,Healthcare,Small,United States,2025-07-01,Organic,42.5
+8,"Henderson, Ramirez and Lewis",Edtech,Small,India,2025-08-01,Organic,61.84
+9,Garcia-James,Legal,Small,Australia,2024-11-01,Organic,34.19
+10,Abbott-Munoz,Legal,Mid-Market,USA,2025-06-01,Outbound Sales,1145.7
+11,Blair PLC,Edtech,Small,AU,2026-02-01,Referral,89.73
+12,Dudley Group,Hospitality,Small,united states,2025-11-01,Organic,30.21
+13,Arnold Ltd,Retail,Mid-Market,DE,2025-01-01,Organic,57.28
+14,"Mcclure, Ward and Lee",Media,Small,USA,2025-10-01,Paid Search,549.87
+15,Williams and Sons,Logistics,Small,IN,2025-12-01,Paid Search,430.01
+16,Galloway-Wyatt,Edtech,Small,India,2025-09-01,Partner,269.22
+17,James Group,Healthcare,Small,UK,2025-01-01,Partner,412.16
+18,"Flowers, Martin and Kelly",Media,Small,India,2025-06-01,Organic,54.23
+19,"Adams, Zuniga and Wong",Manufacturing,Small,India,2024-11-01,Paid Search,551.65
+20,"Reid, Ferguson and Sanchez",Hospitality,Small,UK,2025-05-01,Organic,50.24
+21,Gray-Mayo,Retail,Enterprise,US,2025-03-01,Outbound Sales,1012.83
+22,"Watts, Robinson and Nguyen",Legal,Small,united states,2025-10-01,Partner,386.86
+23,Perez Inc,Media,Small,Australia,2025-11-01,Paid Search,421.13
+24,Morales-Jones,Legal,Small,Germany,2025-11-01,Organic,45.4
+25,"Walter, Edwards and Rios",Hospitality,Small,US,2025-05-01,Organic,55.66
+26,Wilkerson-Day,Hospitality,Enterprise,UK,2025-06-01,Paid Search,431.32
+27,Baker and Sons,Healthcare,Small,USA,2026-03-01,Paid Search,329.34
+28,"Hoffman, Baker and Richards",Edtech,Small,India,2025-07-01,Organic,37.59
+29,"Ross, Robinson and Bright",Healthcare,Small,US,2026-01-01,Organic,54.25
+30,"Snyder, Campos and Callahan",Healthcare,Mid-Market,United Kingdom,2025-08-01,Organic,49.91
+31,Burton Ltd,Logistics,Mid-Market,IN,2025-04-01,Referral,93.58
+32,Carlson-Cruz,Manufacturing,Mid-Market,united states,2025-03-01,Organic,50.96
+33,"Ferrell, Rice and Maddox",Manufacturing,Small,USA,2025-08-01,Paid Search,523.02
+34,Frazier Inc,Edtech,Small,US,2025-08-01,Outbound Sales,624.85
+35,"Dyer, Potter and Mack",Healthcare,Mid-Market,US,2025-04-01,Outbound Sales,819.73
+36,Rodriguez-Graham,Legal,Small,India,2025-11-01,Paid Search,512.56
+37,Smith-Bowen,Fintech,Small,Australia,2024-12-01,Outbound Sales,575.99
+38,"Baker, Mason and White",Media,Mid-Market,AU,2025-09-01,Partner,389.3
+39,Harrell LLC,Legal,Small,US,2025-08-01,Organic,52.83
+40,"Romero, Gonzalez and Brooks",Manufacturing,Small,United Kingdom,2024-12-01,Organic,60.59
+41,Ryan PLC,Edtech,Small,United Kingdom,2025-06-01,Referral,142.04
+42,George Group,Manufacturing,Mid-Market,United Kingdom,2025-04-01,Referral,91.37
+43,Rodriguez LLC,Logistics,Small,IN,2025-08-01,Organic,32.88
+44,Allen-Allen,Edtech,Mid-Market,United States,2026-04-01,Partner,242.12
+45,"Arroyo, Miller and Tucker",Edtech,Mid-Market,IN,2025-10-01,Referral,77.81
+46,Spence PLC,Media,Small,united states,2025-03-01,Referral,118.96
+47,Anderson Group,Fintech,Enterprise,CA,2026-02-01,Outbound Sales,872.07
+48,"Martin, Rose and Obrien",Fintech,Small,DE,2026-03-01,Organic,59.25
+49,Hickman Ltd,Legal,Mid-Market,USA,2025-11-01,Organic,58.88
+50,"Harris, Collins and Carney",Hospitality,Enterprise,US,2025-07-01,Referral,122.77
+51,"Brooks, Lam and Hayes",Hospitality,Mid-Market,IN,2025-01-01,Partner,365.43
+52,Walker LLC,Manufacturing,Mid-Market,united states,2025-04-01,Partner,379.96
+53,Chapman and Sons,Fintech,Mid-Market,Australia,2025-12-01,Paid Search,611.7
+54,"Robinson, Jones and Welch",Healthcare,Small,DE,2025-09-01,Partner,300.55
+55,Jones Inc,Healthcare,Small,United States,2025-04-01,Referral,118.81
+56,Jones-Young,Fintech,Small,India,2025-03-01,Organic,43.32
+57,"Washington, Ryan and Cummings",Hospitality,Small,united states,2025-11-01,Organic,69.5
+58,"Johnston, Sanchez and Kennedy",Media,Small,United States,2025-07-01,Organic,51.61
+59,Lee-Davis,Hospitality,Small,IN,2025-06-01,Referral,120.45
+60,Gomez-Jenkins,Legal,Small,united states,2025-10-01,Paid Search,499.73
+61,"Brown, Valdez and Lucas",Legal,Small,CA,2024-10-01,Partner,242.11
+62,Powell LLC,Healthcare,Mid-Market,United States,2025-01-01,Paid Search,636.9
+63,Wright and Sons,Manufacturing,Mid-Market,US,2025-08-01,Outbound Sales,984.89
+64,"West, Henderson and Ramirez",Logistics,Mid-Market,United States,2025-05-01,Paid Search,635.78
+65,Baxter Inc,Fintech,Small,united states,2024-10-01,Organic,47.03
+66,Morton-Chase,Retail,Small,IN,2025-06-01,Organic,73.4
+67,Williams PLC,Legal,Mid-Market,IN,2025-04-01,Referral,116.15
+68,Novak and Sons,Legal,Small,Germany,2025-06-01,Referral,106.03
+69,Russell Group,Logistics,Mid-Market,India,2024-12-01,Organic,58.09
+70,Hancock Inc,Fintech,Small,India,2025-04-01,Paid Search,464.19
+71,Gray Group,Fintech,Small,US,2026-02-01,Outbound Sales,790.55
+72,House-Glover,Hospitality,Small,United States,2025-11-01,Partner,315.57
+73,Henderson-Bernard,Real Estate,Mid-Market,UK,2025-01-01,Referral,130.86
+74,"Stanley, Tucker and Lee",Healthcare,Mid-Market,United States,2025-03-01,Partner,343.6
+75,Novak PLC,Logistics,Enterprise,IN,2026-05-01,Paid Search,374.71
+76,"Daniels, Adkins and Brown",Retail,Mid-Market,India,2025-12-01,Partner,387.15
+77,"Woods, Calhoun and Schmidt",Hospitality,Enterprise,Australia,2024-12-01,Paid Search,391.14
+78,Yu Inc,Healthcare,Small,United States,2025-04-01,Outbound Sales,1113.56
+79,Jones Inc,Healthcare,Small,CA,2025-03-01,Outbound Sales,1330.27
+80,"Hensley, Powell and David",Fintech,Mid-Market,USA,2025-03-01,Referral,151.96
+81,"Sanchez, Wheeler and Harvey",Legal,Small,DE,2025-10-01,Organic,41.26
+82,Sandoval-Cunningham,Logistics,Small,Australia,2025-05-01,Paid Search,449.01
+83,Donovan-Harris,Hospitality,Mid-Market,U.K.,2025-01-01,Referral,107.0
+84,"Edwards, Baker and Anderson",Edtech,Enterprise,united states,2025-09-01,Organic,52.55
+85,"Evans, Stewart and Walton",Logistics,Small,USA,2025-04-01,Partner,250.18
+86,Smith PLC,Manufacturing,Enterprise,IN,2025-10-01,Paid Search,603.01
+87,"Ferrell, Jones and Lewis",Legal,Small,IN,2025-01-01,Organic,41.47
+88,Anderson-Bailey,Healthcare,Mid-Market,IN,2025-01-01,Referral,118.55
+89,Suarez LLC,Edtech,Enterprise,USA,2026-03-01,Organic,45.71
+90,Moore-Bass,Manufacturing,Enterprise,Canada,2024-10-01,Organic,55.72
+91,"Turner, Riggs and Roman",Hospitality,Small,Canada,2025-06-01,Organic,55.92
+92,"Smith, Montoya and Evans",Edtech,Mid-Market,U.K.,2025-07-01,Paid Search,456.11
+93,"Garcia, Humphrey and Baker",Retail,Mid-Market,Australia,2025-07-01,Organic,48.61
+94,Newton and Sons,Retail,Small,United States,2025-03-01,Paid Search,559.83
+95,Campbell-Clark,Healthcare,Mid-Market,USA,2025-07-01,Outbound Sales,469.64
+96,Harris-Walters,Manufacturing,Mid-Market,United States,2025-08-01,Outbound Sales,981.56
+97,Wagner-King,Legal,Mid-Market,United Kingdom,2026-02-01,Referral,141.01
+98,Davis Group,Logistics,Mid-Market,USA,2024-11-01,Paid Search,435.12
+99,Williams-Cook,Edtech,Mid-Market,united states,2026-04-01,Referral,130.23
+100,Walsh LLC,Hospitality,Small,India,2025-11-01,Paid Search,440.28
+101,Figueroa PLC,Edtech,Enterprise,DE,2024-11-01,Partner,413.72
+102,"Patterson, Smith and Jones",Media,Small,united states,2025-11-01,Paid Search,485.15
+103,"Mckee, Gardner and Davenport",Healthcare,Small,India,2026-03-01,Organic,63.26
+104,"Tran, Jordan and Williams",Media,Mid-Market,United Kingdom,2025-01-01,Paid Search,623.4
+105,Nolan-Flynn,Media,Small,DE,2025-06-01,Referral,150.8
+106,Nolan and Sons,Real Estate,Mid-Market,united states,2025-01-01,Partner,312.46
+107,"Wright, Garcia and Deleon",Healthcare,Small,United States,2025-09-01,Organic,28.36
+108,Dickson-Brady,Media,Mid-Market,United States,2026-01-01,Paid Search,612.49
+109,Hancock and Sons,Healthcare,Small,IN,2025-04-01,Partner,298.9
+110,Johnson-Doyle,Edtech,Small,Canada,2025-05-01,Paid Search,539.6
+111,Patton-Jenkins,Legal,Small,USA,2025-07-01,Organic,36.23
+112,"Shields, Cochran and Adams",Fintech,Small,IN,2026-01-01,Referral,134.63
+113,"Rodriguez, Brennan and Garrison",Fintech,Small,united states,2025-02-01,Organic,39.81
+114,Gonzalez Group,Real Estate,Small,IN,2025-01-01,Organic,43.01
+115,Torres-Pope,Healthcare,Small,United Kingdom,2025-06-01,Organic,56.43
+116,Walker Ltd,Legal,Small,AU,2025-12-01,Organic,65.06
+117,Ross LLC,Retail,Small,United Kingdom,2025-10-01,Organic,43.16
+118,Rasmussen LLC,Healthcare,Mid-Market,United States,2025-07-01,Paid Search,311.84
+119,May-Ross,Fintech,Small,USA,2024-11-01,Referral,120.86
+120,"Rivera, Johnson and Wiley",Real Estate,Small,IN,2025-01-01,Paid Search,558.97
+121,White-Estes,Edtech,Small,united states,2025-03-01,Organic,36.73
+122,Johnson-Carlson,Retail,Mid-Market,AU,2025-01-01,Referral,100.37
+123,Chandler-Edwards,Media,Mid-Market,India,2025-10-01,Organic,79.68
+124,"Joyce, Wilson and Lam",Media,Small,United States,2025-05-01,Organic,62.68
+125,Scott Ltd,Real Estate,Small,IN,2025-08-01,Paid Search,453.12
+126,Smith-Frost,Media,Small,US,2024-12-01,Organic,51.59
+127,"Mcdaniel, Bentley and Mclaughlin",Fintech,Enterprise,united states,2025-02-01,Organic,18.72
+128,Diaz Inc,Logistics,Mid-Market,USA,2025-01-01,Outbound Sales,1054.04
+129,"Mccall, Hanson and Alvarado",Retail,Mid-Market,USA,2025-11-01,Organic,56.6
+130,Cortez LLC,Manufacturing,Small,United States,2025-07-01,Partner,315.56
+131,"Parker, Ortiz and Powell",Retail,Mid-Market,India,2025-04-01,Paid Search,398.41
+132,Spencer-Lee,Legal,Small,IN,2025-03-01,Organic,46.17
+133,"Bentley, Byrd and Orr",Retail,Mid-Market,USA,2025-06-01,Paid Search,382.28
+134,"Carroll, Sullivan and Bass",Fintech,Small,India,2025-10-01,Paid Search,535.53
+135,Mitchell-Jordan,Hospitality,Small,Australia,2025-04-01,Partner,312.73
+136,"Lawson, Morris and Ramos",Edtech,Mid-Market,United Kingdom,2024-12-01,Referral,122.68
+137,"Lewis, Kennedy and Santana",Healthcare,Mid-Market,DE,2025-01-01,Organic,46.02
+138,"Jackson, Miller and Robertson",Hospitality,Enterprise,India,2025-08-01,Paid Search,414.11
+139,"Harvey, Davis and Crane",Hospitality,Small,Germany,2025-04-01,Paid Search,373.9
+140,Chambers and Sons,Media,Enterprise,India,2025-09-01,Organic,22.12
+141,Hernandez Inc,Logistics,Enterprise,IN,2025-04-01,Outbound Sales,700.92
+142,Riggs PLC,Manufacturing,Mid-Market,USA,2025-07-01,Organic,53.59
+143,Gibson Ltd,Logistics,Small,India,2025-07-01,Partner,263.45
+144,"Lee, Horton and Snyder",Fintech,Mid-Market,UK,2025-03-01,Organic,55.05
+145,Hernandez Ltd,Real Estate,Small,AU,2025-10-01,Paid Search,594.78
+146,Stafford Inc,Healthcare,Mid-Market,UK,2025-02-01,Referral,106.66
+147,Robinson-Brock,Real Estate,Enterprise,India,2025-08-01,Organic,36.77
+148,"Holmes, Williams and Wright",Healthcare,Enterprise,India,2025-07-01,Paid Search,392.3
+149,Bryant Group,Legal,Enterprise,India,2025-01-01,Paid Search,427.18
+150,"Schmidt, Hansen and Stewart",Fintech,Enterprise,IN,2026-02-01,Referral,121.41
+151,Salazar-Ball,Healthcare,Mid-Market,US,2025-09-01,Referral,79.76
+152,"Simmons, Meadows and Griffin",Manufacturing,Small,Australia,2026-02-01,Paid Search,662.27
+153,Manning Group,Fintech,Small,DE,2026-04-01,Organic,81.73
+154,Green-Wright,Legal,Small,united states,2024-11-01,Partner,339.3
+155,"Ramirez, Strickland and Washington",Hospitality,Small,US,2025-04-01,Paid Search,424.14
+156,Hill Inc,Legal,Small,India,2025-09-01,Organic,57.85
+157,"Mitchell, Nelson and Flores",Healthcare,Small,US,2025-01-01,Paid Search,540.5
+158,"Miller, Hernandez and Reyes",Logistics,Mid-Market,India,2025-07-01,Organic,48.03
+159,Mccarthy Inc,Healthcare,Enterprise,Canada,2025-02-01,Organic,40.01
+160,Russell-Daniels,Logistics,Mid-Market,India,2025-06-01,Organic,47.94
+161,Brown-Wall,Hospitality,Small,AU,2025-02-01,Organic,82.12
+162,Stein-Silva,Manufacturing,Small,India,2025-10-01,Paid Search,325.45
+163,"Smith, Gilmore and Johnston",Logistics,Enterprise,India,2025-04-01,Organic,53.62
+164,Smith-Bell,Logistics,Small,united states,2025-04-01,Referral,112.36
+165,Castaneda-Ashley,Healthcare,Small,United States,2024-10-01,Referral,117.32
+166,Medina-Navarro,Media,Small,U.K.,2025-02-01,Organic,50.37
+167,"Hurst, Freeman and Nelson",Retail,Small,US,2025-10-01,Referral,109.48
+168,Johnson-Rogers,Manufacturing,Small,Germany,2025-09-01,Partner,282.81
+169,"Yates, Ramsey and Pittman",Logistics,Enterprise,USA,2025-08-01,Organic,29.13
+170,Hooper PLC,Real Estate,Small,USA,2025-11-01,Organic,72.06
+171,Meadows PLC,Legal,Small,united states,2025-07-01,Referral,157.4
+172,"Alvarado, Miller and Patterson",Healthcare,Small,Australia,2025-03-01,Partner,137.26
+173,White-Green,Fintech,Small,India,2025-12-01,Partner,274.82
+174,Lewis-Murphy,Manufacturing,Small,India,2025-03-01,Referral,160.38
+175,Ramirez-Bean,Media,Small,Germany,2025-01-01,Outbound Sales,610.1
+176,King-Miller,Retail,Mid-Market,Australia,2024-10-01,Organic,51.26
+177,Curry Inc,Manufacturing,Small,IN,2025-03-01,Referral,105.93
+178,Walker-Jones,Manufacturing,Mid-Market,Australia,2025-01-01,Partner,339.52
+179,"Williams, Johnson and Wright",Edtech,Small,United Kingdom,2025-07-01,Organic,48.02
+180,Howell and Sons,Manufacturing,Mid-Market,United States,2025-06-01,Organic,60.08
+181,Wells Inc,Hospitality,Small,IN,2024-12-01,Organic,30.95
+182,"Gould, Marshall and Scott",Edtech,Small,USA,2025-09-01,Referral,96.05
+183,Jackson-Lawson,Fintech,Small,Australia,2025-08-01,Referral,138.23
+184,"Higgins, Strickland and Martin",Retail,Mid-Market,IN,2025-06-01,Paid Search,279.09
+185,Rodriguez-Johnson,Manufacturing,Small,USA,2025-01-01,Referral,179.25
+186,Johnston-Odonnell,Edtech,Mid-Market,DE,2025-03-01,Partner,296.46
+187,Sanders-Espinoza,Fintech,Small,IN,2025-03-01,Paid Search,301.57
+188,Vargas Ltd,Healthcare,Mid-Market,U.K.,2025-12-01,Partner,283.03
+189,Garcia LLC,Retail,Enterprise,DE,2025-08-01,Organic,30.92
+190,"Burke, Martinez and Riggs",Edtech,Enterprise,united states,2026-02-01,Referral,118.26
+191,Reed Group,Real Estate,Enterprise,India,2025-02-01,Outbound Sales,1000.49
+192,"Wood, Hunter and Peterson",Logistics,Mid-Market,IN,2026-02-01,Partner,284.0
+193,Short-Garcia,Edtech,Small,Germany,2025-03-01,Organic,32.44
+194,Reid-Poole,Edtech,Mid-Market,United Kingdom,2024-12-01,Paid Search,506.37
+195,"Hernandez, Thompson and Boyd",Manufacturing,Mid-Market,united states,2024-12-01,Paid Search,376.81
+196,"Nelson, Morton and Medina",Healthcare,Small,IN,2025-12-01,Organic,63.04
+197,Marshall-Petersen,Manufacturing,Mid-Market,US,2025-12-01,Partner,353.5
+198,"Adams, Christian and Rivas",Legal,Small,united states,2026-06-01,Partner,303.53
+199,Ramirez Group,Retail,Mid-Market,IN,2025-05-01,Partner,173.86
+200,Christensen PLC,Logistics,Small,United States,2025-03-01,Paid Search,252.16
+201,"Barnett, Rogers and Snyder",Hospitality,Mid-Market,USA,2025-03-01,Organic,25.83
+202,White-Lewis,Retail,Small,AU,2025-02-01,Partner,209.45
+203,Peterson-Beard,Hospitality,Small,Australia,2025-05-01,Outbound Sales,1419.69
+204,"Beard, Peters and Black",Manufacturing,Mid-Market,united states,2026-05-01,Outbound Sales,750.62
+205,Miller Ltd,Media,Small,IN,2025-07-01,Organic,43.53
+206,Freeman-Chang,Media,Enterprise,United States,2025-10-01,Organic,42.51
+207,"Alvarez, Joseph and West",Logistics,Mid-Market,Australia,2025-12-01,Outbound Sales,815.99
+208,Davis and Sons,Media,Small,United States,2025-08-01,Partner,211.98
+209,Holt-Torres,Legal,Enterprise,India,2025-02-01,Referral,94.8
+210,"Wood, Tran and Cooper",Manufacturing,Enterprise,USA,2025-03-01,Partner,312.35
+211,"Pierce, Bell and Chavez",Healthcare,Small,DE,2025-12-01,Referral,94.48
+212,King-Martinez,Hospitality,Small,US,2025-04-01,Referral,123.14
+213,Stewart Ltd,Healthcare,Mid-Market,US,2024-12-01,Referral,15.58
+214,"Tapia, Vaughn and Lee",Legal,Mid-Market,US,2025-11-01,Referral,93.89
+215,"Washington, Hardy and Bray",Media,Mid-Market,AU,2025-03-01,Partner,369.97
+216,"Carlson, Hooper and Wall",Media,Mid-Market,DE,2025-09-01,Referral,132.65
+217,Perez-White,Logistics,Mid-Market,U.K.,2025-07-01,Organic,45.37
+218,Erickson and Sons,Edtech,Small,Germany,2025-01-01,Partner,237.48
+219,Williams-Brown,Media,Small,united states,2024-09-01,Referral,120.74
+220,Terry-Martinez,Hospitality,Small,India,2025-07-01,Partner,306.75
+221,Garcia-Smith,Media,Enterprise,IN,2025-10-01,Outbound Sales,1172.02
+222,Harrison-Alexander,Logistics,Small,Australia,2024-12-01,Referral,76.76
+223,Sheppard LLC,Edtech,Mid-Market,UK,2025-03-01,Organic,27.38
+224,Wilson-Jones,Hospitality,Enterprise,AU,2024-11-01,Outbound Sales,1117.13
+225,Jones-Soto,Real Estate,Mid-Market,US,2025-09-01,Partner,290.17
+226,Hernandez PLC,Real Estate,Enterprise,IN,2025-08-01,Organic,24.56
+227,Miller-Wright,Legal,Small,India,2025-05-01,Organic,58.11
+228,"Duran, Obrien and Gibbs",Fintech,Small,UK,2024-12-01,Referral,149.62
+229,Rowe Group,Logistics,Mid-Market,United States,2026-02-01,Paid Search,437.11
+230,Kerr-Evans,Healthcare,Small,US,2025-04-01,Outbound Sales,1042.49
+231,"Branch, Torres and Oliver",Logistics,Small,USA,2026-01-01,Organic,50.93
+232,"Choi, Garcia and Farmer",Edtech,Small,India,2025-12-01,Outbound Sales,848.38
+233,"Clark, Guerrero and Moore",Retail,Mid-Market,Germany,2025-12-01,Partner,334.49
+234,Arnold and Sons,Edtech,Mid-Market,United States,2025-01-01,Outbound Sales,1036.69
+235,Ortiz Ltd,Hospitality,Small,IN,2025-10-01,Organic,54.69
+236,"Harrison, Johnson and Roberts",Real Estate,Mid-Market,India,2025-02-01,Organic,40.53
+237,Warner-Gibson,Hospitality,Small,DE,2025-03-01,Paid Search,418.85
+238,"Hall, Baker and Moody",Media,Small,India,2025-04-01,Referral,119.24
+239,"Guerrero, Peck and Coleman",Media,Small,DE,2025-08-01,Partner,298.19
+240,"Walker, Hernandez and Baker",Fintech,Small,Canada,2025-03-01,Organic,42.86
+241,Jones and Sons,Retail,Small,U.K.,2025-07-01,Referral,93.71
+242,Larson-Holloway,Media,Small,United States,2024-11-01,Paid Search,454.24
+243,Gonzales-Harrison,Fintech,Small,United Kingdom,2025-07-01,Partner,262.99
+244,Lyons-Bender,Legal,Enterprise,U.K.,2025-08-01,Organic,44.44
+245,"Fernandez, Kim and George",Retail,Mid-Market,IN,2024-11-01,Referral,131.8
+246,Navarro-Munoz,Healthcare,Enterprise,Germany,2025-04-01,Organic,58.52
+247,Davis Ltd,Fintech,Mid-Market,DE,2025-06-01,Paid Search,495.15
+248,"Matthews, Smith and Hubbard",Legal,Small,united states,2024-12-01,Organic,77.28
+249,Johnston-Hines,Real Estate,Mid-Market,US,2025-12-01,Outbound Sales,667.9
+250,Ruiz Ltd,Legal,Mid-Market,IN,2025-08-01,Referral,104.12
+251,Moon-White,Fintech,Mid-Market,CA,2025-02-01,Outbound Sales,646.24
+252,"Graham, Olsen and Costa",Real Estate,Small,united states,2024-12-01,Organic,57.05
+253,Bailey-Cook,Edtech,Small,UK,2025-12-01,Referral,64.07
+254,"Garcia, Martin and Jenkins",Legal,Mid-Market,US,2026-04-01,Partner,232.38
+255,Roberts-Landry,Edtech,Mid-Market,UK,2025-05-01,Paid Search,266.29
+256,"Johnson, Miller and King",Real Estate,Mid-Market,US,2026-01-01,Referral,102.82
+257,Cordova Group,Logistics,Small,United States,2025-09-01,Referral,129.71
+258,"Bryan, Smith and Booth",Logistics,Small,Australia,2025-03-01,Paid Search,417.21
+259,Gutierrez-Lopez,Manufacturing,Small,IN,2025-04-01,Organic,54.68
+260,Dean-Jimenez,Fintech,Small,United States,2025-08-01,Partner,293.49
+261,Wolf-Harris,Edtech,Mid-Market,India,2026-03-01,Organic,23.81
+262,"Anderson, Roberts and Gilmore",Fintech,Mid-Market,united states,2025-05-01,Referral,127.63
+263,Martinez-Dudley,Healthcare,Small,USA,2025-02-01,Organic,60.59
+264,"Lloyd, Mckinney and Collins",Media,Mid-Market,DE,2025-11-01,Referral,156.68
+265,Tran Inc,Legal,Enterprise,US,2025-02-01,Organic,50.6
+266,Gay Inc,Media,Enterprise,united states,2024-11-01,Paid Search,372.65
+267,Valentine-Holland,Edtech,Mid-Market,India,2025-03-01,Organic,51.74
+268,Jimenez Ltd,Media,Mid-Market,IN,2025-05-01,Paid Search,500.91
+269,Hicks-Hill,Hospitality,Mid-Market,United States,2025-01-01,Paid Search,344.42
+270,Baird-Sanchez,Real Estate,Small,united states,2026-03-01,Referral,139.33
+271,"Thomas, Lee and Greene",Manufacturing,Mid-Market,United States,2025-12-01,Referral,119.07
+272,"Suarez, Shields and Hill",Media,Enterprise,IN,2025-12-01,Organic,75.04
+273,Morgan-French,Legal,Mid-Market,UK,2025-08-01,Organic,36.38
+274,Hoover-Campbell,Legal,Small,U.K.,2025-01-01,Outbound Sales,1267.0
+275,Monroe-Carpenter,Real Estate,Mid-Market,India,2026-04-01,Partner,325.55
+276,"Burns, Hernandez and Ryan",Logistics,Mid-Market,India,2025-12-01,Paid Search,611.46
+277,Cook-Hines,Real Estate,Small,UK,2025-11-01,Partner,396.73
+278,Gibson-Morris,Media,Small,United States,2025-06-01,Paid Search,420.59
+279,Pollard and Sons,Media,Small,UK,2025-04-01,Paid Search,275.32
+280,"Reyes, Chase and Jenkins",Real Estate,Mid-Market,USA,2025-02-01,Referral,110.89
+281,Garner-Thornton,Hospitality,Small,India,2025-07-01,Paid Search,456.65
+282,Hughes-Alvarado,Media,Small,United States,2024-10-01,Paid Search,576.69
+283,"Pollard, Simpson and Johnson",Healthcare,Mid-Market,India,2025-07-01,Referral,140.4
+284,"Sanford, Rivera and Garcia",Fintech,Small,united states,2026-03-01,Organic,57.19
+285,Garcia-Lozano,Fintech,Small,AU,2025-08-01,Organic,47.64
+286,Bowen Group,Logistics,Small,United States,2025-05-01,Organic,56.91
+287,"Booker, Jones and Harrington",Manufacturing,Small,IN,2025-10-01,Paid Search,620.38
+288,Morgan-Schwartz,Real Estate,Mid-Market,USA,2025-05-01,Organic,59.66
+289,"Miller, Murphy and Craig",Manufacturing,Small,IN,2025-02-01,Referral,124.81
+290,"James, Stewart and Higgins",Logistics,Mid-Market,IN,2026-03-01,Partner,229.71
+291,Brennan-Johnson,Logistics,Enterprise,IN,2024-11-01,Outbound Sales,1171.38
+292,Young Ltd,Real Estate,Small,United States,2025-02-01,Referral,131.52
+293,Bright-Francis,Legal,Small,Australia,2025-11-01,Paid Search,534.06
+294,Good-Hodges,Manufacturing,Small,India,2025-11-01,Referral,98.98
+295,"Brennan, Wallace and Benson",Healthcare,Mid-Market,India,2025-07-01,Referral,135.73
+296,Williams Inc,Retail,Mid-Market,United States,2025-02-01,Organic,40.81
+297,Howard-Jordan,Edtech,Small,India,2025-07-01,Organic,68.24
+298,Schmidt PLC,Hospitality,Small,United States,2026-04-01,Referral,69.44
+299,"Sparks, Jackson and Miller",Edtech,Mid-Market,United Kingdom,2025-05-01,Referral,129.08
+300,Harvey-Allen,Real Estate,Enterprise,USA,2025-03-01,Organic,43.32
+301,"Thomas, Murray and King",Hospitality,Small,United States,2025-02-01,Organic,42.67
+302,Estrada-Nolan,Real Estate,Small,Germany,2024-12-01,Organic,47.53
+303,Santana-Byrd,Logistics,Mid-Market,U.K.,2025-12-01,Paid Search,318.08
+304,Jones LLC,Fintech,Mid-Market,UK,2026-05-01,Referral,83.0
+305,"Evans, Hayden and Vaughn",Fintech,Small,United States,2025-05-01,Referral,90.28
+306,Bruce-Gonzalez,Healthcare,Small,IN,2024-12-01,Partner,347.21
+307,Castaneda-Rodriguez,Logistics,Small,Germany,2025-08-01,Outbound Sales,779.87
+308,Armstrong-Andrews,Media,Mid-Market,AU,2026-05-01,Paid Search,291.7
+309,"Phillips, Spence and Barrett",Healthcare,Mid-Market,India,2025-06-01,Organic,43.41
+310,Smith-Grimes,Edtech,Small,U.K.,2025-10-01,Organic,54.52
+311,"Beltran, Lozano and Mcgee",Logistics,Small,United States,2025-03-01,Organic,51.09
+312,Parsons-Hall,Hospitality,Small,India,2025-04-01,Referral,141.24
+313,Robinson-Lee,Manufacturing,Enterprise,India,2026-01-01,Outbound Sales,813.41
+314,Byrd-Le,Manufacturing,Enterprise,DE,2025-01-01,Paid Search,502.2
+315,"Becker, Taylor and Davis",Legal,Small,Germany,2025-12-01,Partner,261.97
+316,"Lucas, Parker and Alexander",Manufacturing,Enterprise,U.K.,2025-02-01,Paid Search,423.41
+317,"Diaz, Anderson and Browning",Media,Mid-Market,Germany,2025-08-01,Organic,80.81
+318,Burgess-Thompson,Healthcare,Small,IN,2025-02-01,Paid Search,416.23
+319,Buchanan LLC,Manufacturing,Small,united states,2025-04-01,Organic,56.35
+320,"Shaw, Nelson and Martin",Fintech,Small,IN,2025-03-01,Paid Search,456.07
+321,Coffey-Phillips,Fintech,Small,united states,2025-08-01,Referral,91.0
+322,Brock-Mcdonald,Hospitality,Enterprise,IN,2025-10-01,Organic,55.21
+323,Taylor and Sons,Real Estate,Small,U.K.,2024-11-01,Outbound Sales,773.18
+324,"Ramsey, Whitney and Coffey",Media,Small,united states,2025-03-01,Referral,107.67
+325,"Diaz, Gibbs and Smith",Manufacturing,Mid-Market,CA,2025-06-01,Partner,184.93
+326,"Martinez, Richardson and Curry",Healthcare,Enterprise,India,2025-06-01,Organic,61.41
+327,Richards-Carson,Real Estate,Mid-Market,US,2025-05-01,Paid Search,585.88
+328,Rodriguez-Hall,Real Estate,Small,USA,2025-10-01,Paid Search,414.38
+329,Harvey PLC,Manufacturing,Small,united states,2024-10-01,Partner,308.16
+330,Herman-Walker,Real Estate,Mid-Market,United States,2024-10-01,Outbound Sales,648.31
+331,Reid Group,Fintech,Mid-Market,IN,2026-03-01,Organic,25.5
+332,"Turner, Ortiz and Taylor",Edtech,Small,IN,2024-12-01,Organic,75.76
+333,Torres Group,Logistics,Mid-Market,IN,2025-09-01,Paid Search,351.58
+334,Davis PLC,Logistics,Small,CA,2026-01-01,Partner,129.27
+335,Price LLC,Legal,Mid-Market,IN,2025-08-01,Organic,48.9
+336,"Avery, Horton and Fernandez",Legal,Mid-Market,Australia,2025-08-01,Referral,147.64
+337,"Newton, Moore and Perry",Healthcare,Mid-Market,India,2024-12-01,Organic,51.11
+338,Bass PLC,Media,Small,USA,2024-11-01,Referral,171.66
+339,Crosby-Ramirez,Legal,Small,united states,2024-12-01,Outbound Sales,719.44
+340,"Wood, Ramos and Sampson",Real Estate,Small,Germany,2025-04-01,Referral,158.96
+341,Garcia-Jennings,Real Estate,Small,united states,2025-02-01,Referral,96.55
+342,"Winters, Newman and Brown",Healthcare,Mid-Market,Canada,2024-12-01,Organic,60.99
+343,Lopez-Martinez,Edtech,Mid-Market,US,2025-07-01,Organic,53.51
+344,Davis-Lewis,Edtech,Enterprise,IN,2025-08-01,Organic,38.43
+345,"Harper, Smith and Buchanan",Hospitality,Mid-Market,US,2025-10-01,Outbound Sales,1227.51
+346,Zhang PLC,Real Estate,Small,UK,2025-11-01,Organic,72.49
+347,Jones PLC,Media,Mid-Market,US,2026-02-01,Paid Search,254.51
+348,Willis and Sons,Manufacturing,Small,US,2026-02-01,Organic,25.65
+349,Schroeder-Kramer,Logistics,Mid-Market,IN,2025-12-01,Organic,53.8
+350,"Smith, Garrison and Thomas",Logistics,Small,US,2026-01-01,Partner,319.94
+351,Fernandez and Sons,Healthcare,Small,United Kingdom,2025-11-01,Partner,222.09
+352,Guerrero Inc,Manufacturing,Small,Australia,2026-04-01,Organic,56.29
+353,Smith and Sons,Legal,Mid-Market,United Kingdom,2025-01-01,Partner,302.29
+354,"Morris, Thompson and Williams",Edtech,Small,India,2025-09-01,Referral,75.24
+355,"Fisher, Wilson and Brown",Real Estate,Mid-Market,India,2025-03-01,Referral,129.86
+356,Strickland-Palmer,Hospitality,Small,IN,2025-01-01,Organic,61.25
+357,Hayes and Sons,Healthcare,Small,CA,2025-09-01,Organic,66.1
+358,"Williams, Logan and Camacho",Logistics,Small,United Kingdom,2025-06-01,Referral,107.32
+359,"Turner, Schneider and Johnson",Manufacturing,Small,Germany,2025-04-01,Referral,76.5
+360,Boone-Simmons,Logistics,Small,Australia,2025-03-01,Outbound Sales,651.08
+361,Henry Group,Legal,Small,United Kingdom,2025-05-01,Partner,172.59
+362,Lam LLC,Logistics,Small,USA,2025-08-01,Referral,163.72
+363,"Hernandez, Martinez and Weber",Retail,Small,United States,2025-10-01,Referral,186.43
+364,"Kelley, Nguyen and Vang",Fintech,Mid-Market,IN,2025-07-01,Referral,111.12
+365,"Phillips, Wagner and Jordan",Healthcare,Small,DE,2025-08-01,Organic,49.91
+366,"Wilson, Pena and Rich",Hospitality,Mid-Market,United States,2024-11-01,Partner,398.43
+367,"Le, Lewis and Hayes",Real Estate,Small,IN,2025-10-01,Paid Search,401.42
+368,Gutierrez Group,Real Estate,Mid-Market,united states,2024-12-01,Referral,93.42
+369,Perry-Davis,Fintech,Mid-Market,AU,2026-06-01,Referral,175.85
+370,Edwards-Scott,Logistics,Small,India,2025-01-01,Partner,219.25
+371,Mcdaniel Group,Healthcare,Small,IN,2025-07-01,Organic,32.36
+372,Davis Inc,Media,Small,Germany,2024-10-01,Organic,35.32
+373,Reynolds Ltd,Healthcare,Mid-Market,AU,2025-03-01,Organic,62.91
+374,"Watson, Anderson and Brown",Fintech,Small,Germany,2025-02-01,Paid Search,428.07
+375,"Hoffman, Santiago and Jenkins",Hospitality,Mid-Market,USA,2025-01-01,Referral,33.86
+376,"Pugh, Henderson and Moon",Healthcare,Small,US,2025-10-01,Referral,115.17
+377,Schmitt PLC,Healthcare,Small,United Kingdom,2025-09-01,Outbound Sales,680.32
+378,Bell-Lane,Hospitality,Mid-Market,united states,2026-01-01,Organic,38.84
+379,Moore Group,Legal,Small,Germany,2025-05-01,Organic,43.42
+380,Boone LLC,Real Estate,Small,united states,2026-01-01,Paid Search,448.42
+381,"Richardson, Farmer and Andrews",Logistics,Mid-Market,AU,2025-04-01,Organic,53.09
+382,Bruce-Villegas,Logistics,Small,united states,2026-02-01,Paid Search,459.82
+383,"Austin, Day and Johnson",Hospitality,Mid-Market,Canada,2025-09-01,Organic,36.12
+384,"Gallegos, Adams and White",Edtech,Small,Canada,2025-05-01,Referral,137.01
+385,"Farmer, Dorsey and Bell",Logistics,Mid-Market,USA,2025-01-01,Organic,57.91
+386,Kane PLC,Fintech,Mid-Market,United States,2025-06-01,Partner,266.28
+387,"Morales, Thomas and Schultz",Fintech,Small,United Kingdom,2024-12-01,Paid Search,440.7
+388,Davis PLC,Fintech,Mid-Market,Australia,2025-02-01,Partner,237.82
+389,Bennett Group,Media,Small,India,2025-05-01,Referral,98.68
+390,Moore-Collins,Hospitality,Mid-Market,IN,2025-10-01,Organic,50.92
+391,Frank-Bradley,Logistics,Small,united states,2025-02-01,Organic,64.52
+392,Ware and Sons,Edtech,Enterprise,Australia,2025-02-01,Partner,242.37
+393,Webster Inc,Logistics,Enterprise,IN,2025-03-01,Outbound Sales,886.27
+394,"Miller, Ramos and Coleman",Healthcare,Mid-Market,IN,2025-06-01,Organic,40.8
+395,"Ramos, Nelson and Fischer",Logistics,Mid-Market,USA,2025-11-01,Partner,162.69
+396,Reed Inc,Media,Small,India,2025-07-01,Partner,315.05
+397,Gregory-Watkins,Legal,Small,India,2026-01-01,Organic,62.28
+398,"Estrada, Williams and Foster",Fintech,Enterprise,Australia,2025-12-01,Organic,58.2
+399,"Brown, Harris and Dougherty",Fintech,Small,US,2025-01-01,Organic,53.72
+400,Duran LLC,Retail,Enterprise,India,2025-05-01,Organic,59.51
+401,Wilson-Jimenez,Logistics,Mid-Market,India,2025-10-01,Outbound Sales,959.64
+402,Thompson-James,Real Estate,Small,US,2025-07-01,Partner,296.62
+403,"Hall, Hansen and Barnett",Real Estate,Enterprise,United States,2025-01-01,Referral,173.79
+404,Jones-Hensley,Logistics,Mid-Market,U.K.,2024-12-01,Organic,52.8
+405,Graham Group,Logistics,Mid-Market,IN,2025-11-01,Referral,110.89
+406,Atkins PLC,Real Estate,Mid-Market,united states,2025-05-01,Paid Search,230.03
+407,Berry-Mckinney,Hospitality,Small,United States,2025-04-01,Referral,103.04
+408,Roberts-Sullivan,Media,Mid-Market,United Kingdom,2025-05-01,Referral,107.68
+409,Jackson-Meza,Hospitality,Small,DE,2025-04-01,Paid Search,454.27
+410,Collier-Gillespie,Retail,Small,US,2025-08-01,Referral,124.07
+411,Kim Inc,Edtech,Mid-Market,Germany,2025-02-01,Organic,43.64
+412,Graham Group,Logistics,Small,India,2025-08-01,Paid Search,537.47
+413,"Miller, Harrell and Reese",Fintech,Mid-Market,United States,2024-11-01,Referral,141.71
+414,Cook and Sons,Legal,Mid-Market,AU,2025-03-01,Referral,140.02
+415,Dixon Inc,Logistics,Small,IN,2025-01-01,Paid Search,465.84
+416,"Hicks, Bullock and Bailey",Hospitality,Small,USA,2026-04-01,Paid Search,573.82
+417,"Mullen, Brewer and Hernandez",Real Estate,Enterprise,AU,2025-09-01,Organic,44.56
+418,Thomas and Sons,Real Estate,Enterprise,Germany,2025-09-01,Organic,59.38
+419,Morrison Ltd,Media,Small,US,2025-09-01,Partner,349.45
+420,Thompson Ltd,Manufacturing,Small,IN,2025-09-01,Organic,45.17
+421,Marshall-Elliott,Fintech,Small,India,2024-10-01,Paid Search,269.28
+422,"Cole, Glass and Cunningham",Media,Mid-Market,US,2025-09-01,Outbound Sales,1075.33
+423,"Downs, Morris and Maddox",Logistics,Small,IN,2025-08-01,Partner,355.07
+424,Hernandez-Jones,Legal,Small,CA,2025-07-01,Partner,251.3
+425,Welch-Hogan,Real Estate,Mid-Market,Germany,2024-12-01,Referral,127.95
+426,"Brown, Romero and Collins",Manufacturing,Small,India,2025-12-01,Paid Search,522.22
+427,Johnson-Wood,Manufacturing,Small,IN,2025-03-01,Partner,366.44
+428,Jones-Lin,Media,Mid-Market,India,2025-07-01,Referral,126.9
+429,Gilbert PLC,Legal,Mid-Market,India,2025-03-01,Organic,46.79
+430,Ford-Spencer,Media,Small,IN,2026-02-01,Referral,47.92
+431,"Huang, Cole and Pacheco",Edtech,Small,United States,2025-07-01,Organic,44.51
+432,"Lopez, Jacobs and Mason",Hospitality,Small,US,2025-01-01,Outbound Sales,403.26
+433,Hayes LLC,Real Estate,Small,united states,2025-05-01,Referral,93.17
+434,"Miller, Lucas and Williams",Edtech,Small,United States,2024-09-01,Organic,41.63
+435,"Kim, Gonzales and Mills",Legal,Small,US,2025-01-01,Partner,336.01
+436,Cox LLC,Logistics,Mid-Market,USA,2026-02-01,Organic,84.14
+437,Ortiz-Morgan,Real Estate,Mid-Market,united states,2025-01-01,Paid Search,447.91
+438,"Williams, Mccoy and Cook",Retail,Small,United States,2026-05-01,Organic,63.45
+439,Davis-Gregory,Fintech,Small,India,2025-05-01,Outbound Sales,1073.7
+440,King-York,Legal,Small,CA,2025-11-01,Partner,414.85
+441,"Marks, Cook and Aguilar",Legal,Mid-Market,United States,2025-08-01,Organic,51.81
+442,Rangel LLC,Healthcare,Small,united states,2025-01-01,Paid Search,380.84
+443,"Hale, Myers and Larson",Healthcare,Mid-Market,India,2025-01-01,Partner,338.39
+444,Collins Group,Healthcare,Small,united states,2025-08-01,Referral,114.95
+445,"Conner, Li and Santiago",Real Estate,Small,Australia,2025-08-01,Referral,131.45
+446,"Osborn, Gaines and Davis",Legal,Small,US,2026-01-01,Paid Search,521.62
+447,"Henderson, Cox and Cox",Media,Small,IN,2024-10-01,Organic,83.48
+448,Bean LLC,Real Estate,Mid-Market,IN,2025-01-01,Paid Search,395.36
+449,Lee-Cooke,Real Estate,Small,Germany,2025-08-01,Referral,175.21
+450,Jones Inc,Media,Mid-Market,Germany,2025-03-01,Paid Search,366.13
+451,"Wise, Conley and Stephenson",Hospitality,Mid-Market,Germany,2025-11-01,Outbound Sales,490.66
+452,Stanley PLC,Healthcare,Mid-Market,India,2025-04-01,Referral,99.2
+453,Harper and Sons,Media,Small,US,2025-04-01,Paid Search,341.5
+454,White Ltd,Legal,Small,IN,2025-08-01,Paid Search,401.61
+455,"Lamb, Martin and Kim",Retail,Small,US,2025-04-01,Referral,71.13
+456,Diaz-Ball,Logistics,Small,IN,2026-05-01,Referral,158.17
+457,Bishop-Goodwin,Fintech,Small,united states,2025-05-01,Paid Search,438.51
+458,Young-Allen,Legal,Small,united states,2024-11-01,Organic,55.12
+459,Mckee-Lee,Manufacturing,Enterprise,IN,2025-10-01,Organic,48.83
+460,"Valentine, Joyce and Murray",Legal,Small,DE,2025-07-01,Outbound Sales,951.52
+461,Strickland-Shaw,Real Estate,Small,united states,2026-03-01,Paid Search,509.51
+462,Burch-Montoya,Edtech,Mid-Market,IN,2025-06-01,Partner,147.08
+463,"Taylor, Wright and Davidson",Hospitality,Enterprise,USA,2025-05-01,Organic,34.23
+464,Spencer-Garcia,Edtech,Small,united states,2025-06-01,Referral,94.05
+465,"Rosales, Mitchell and Hines",Retail,Mid-Market,IN,2025-05-01,Paid Search,482.83
+466,Cole-Palmer,Real Estate,Small,US,2025-07-01,Paid Search,551.19
+467,Davis-Lozano,Media,Mid-Market,IN,2025-05-01,Organic,53.32
+468,Wilkerson-Arias,Real Estate,Mid-Market,Germany,2025-01-01,Organic,72.11
+469,Brown-Shaw,Fintech,Enterprise,Australia,2025-03-01,Outbound Sales,871.96
+470,Hughes Inc,Healthcare,Small,DE,2025-05-01,Referral,84.82
+471,Walker-Flores,Healthcare,Small,united states,2025-03-01,Partner,318.04
+472,Combs Ltd,Retail,Small,DE,2025-07-01,Outbound Sales,355.56
+473,Moody-Taylor,Fintech,Enterprise,U.K.,2025-11-01,Referral,154.97
+474,Lowery-Kennedy,Fintech,Small,AU,2024-12-01,Paid Search,427.0
+475,Blake Group,Real Estate,Mid-Market,Australia,2025-07-01,Organic,74.46
+476,Gilbert-Bullock,Manufacturing,Small,US,2025-08-01,Organic,46.98
+477,Scott and Sons,Healthcare,Small,united states,2025-10-01,Organic,43.3
+478,"Bentley, Lynch and Henderson",Legal,Small,DE,2025-09-01,Referral,145.7
+479,Young-Martinez,Manufacturing,Mid-Market,UK,2025-09-01,Referral,137.54
+480,Barnes PLC,Legal,Small,IN,2024-12-01,Organic,55.62
+481,Brown-Copeland,Hospitality,Enterprise,United States,2025-04-01,Paid Search,462.01
+482,Carlson-Smith,Edtech,Small,Canada,2024-12-01,Paid Search,434.84
+483,"Andrews, Higgins and Carter",Edtech,Small,IN,2024-12-01,Partner,286.56
+484,Mendez and Sons,Media,Small,United States,2025-04-01,Organic,51.03
+485,"Butler, Beck and Miller",Healthcare,Small,Australia,2025-10-01,Paid Search,418.68
+486,Jones-Fox,Fintech,Mid-Market,IN,2025-02-01,Outbound Sales,1042.51
+487,"Hartman, Romero and Smith",Retail,Small,IN,2025-04-01,Organic,50.1
+488,Williams-Hughes,Manufacturing,Mid-Market,India,2025-07-01,Organic,62.55
+489,King-Smith,Logistics,Small,United Kingdom,2025-03-01,Partner,317.74
+490,Cooper Ltd,Manufacturing,Small,DE,2025-01-01,Organic,67.12
+491,"Fuller, Ingram and Moss",Fintech,Small,united states,2025-03-01,Referral,101.21
+492,Anderson-Bell,Legal,Small,USA,2025-09-01,Partner,301.15
+493,Li-Thompson,Hospitality,Small,UK,2025-03-01,Paid Search,419.29
+494,"Marshall, Dominguez and Welch",Fintech,Enterprise,USA,2025-11-01,Partner,241.68
+495,Brown Group,Healthcare,Small,Australia,2025-05-01,Paid Search,442.63
+496,Carter Inc,Media,Small,U.K.,2025-07-01,Organic,74.77
+497,Blackwell LLC,Edtech,Small,U.K.,2025-09-01,Outbound Sales,662.54
+498,Robertson-Hays,Hospitality,Small,IN,2025-10-01,Organic,63.23
+499,"Kennedy, Johnson and Lucas",Edtech,Small,India,2026-03-01,Paid Search,287.83
+500,Kelly-Norman,Logistics,Small,united states,2025-04-01,Partner,284.29
+501,"Rivera, Martinez and Richardson",Logistics,Enterprise,DE,2025-11-01,Organic,45.37
+502,Paul-Kline,Retail,Small,U.K.,2025-02-01,Referral,183.11
+503,Morgan-Lopez,Logistics,Small,UK,2025-01-01,Referral,152.26
+504,"Jimenez, Glass and Stone",Healthcare,Small,USA,2025-09-01,Partner,197.35
+505,Acosta Inc,Manufacturing,Mid-Market,united states,2025-04-01,Organic,28.2
+506,Morrison-Short,Media,Small,US,2024-10-01,Paid Search,463.39
+507,"Carter, Garcia and Murphy",Real Estate,Mid-Market,IN,2025-01-01,Paid Search,537.64
+508,Parker-Morrison,Edtech,Small,IN,2024-10-01,Outbound Sales,357.78
+509,Jackson-Wallace,Real Estate,Enterprise,united states,2025-08-01,Partner,309.06
+510,Williams-Berg,Edtech,Mid-Market,United States,2025-01-01,Partner,416.07
+511,Mendez-Graham,Hospitality,Small,united states,2025-01-01,Organic,62.26
+512,"Whitney, Gould and Jones",Hospitality,Small,US,2025-04-01,Organic,40.72
+513,"Sullivan, Palmer and Brady",Logistics,Small,CA,2025-08-01,Partner,350.27
+514,Cisneros and Sons,Media,Small,United States,2025-04-01,Organic,58.46
+515,"Gregory, Kim and Martinez",Retail,Enterprise,IN,2025-03-01,Referral,99.15
+516,Osborne LLC,Hospitality,Small,Germany,2026-02-01,Outbound Sales,890.74
+517,Reyes-Bradley,Logistics,Small,united states,2026-03-01,Paid Search,375.51
+518,"Hernandez, Cole and Watson",Hospitality,Small,Germany,2025-07-01,Referral,102.07
+519,Hines-Berry,Edtech,Small,IN,2025-11-01,Paid Search,318.37
+520,"Richardson, Edwards and Ramirez",Hospitality,Enterprise,USA,2026-01-01,Paid Search,545.46
+521,Johnson and Sons,Fintech,Enterprise,US,2025-09-01,Organic,36.39
+522,Holmes-Mcintyre,Retail,Mid-Market,United States,2025-06-01,Paid Search,432.47
+523,Green LLC,Real Estate,Small,US,2024-12-01,Partner,464.07
+524,"Griffin, Davies and Mitchell",Hospitality,Small,United States,2024-11-01,Paid Search,236.87
+525,Gonzalez-Taylor,Fintech,Small,DE,2024-11-01,Outbound Sales,1000.77
+526,Hayes Ltd,Logistics,Enterprise,United States,2026-03-01,Outbound Sales,983.5
+527,Osborn-Cochran,Media,Mid-Market,CA,2025-09-01,Referral,107.29
+528,Contreras-Mckinney,Edtech,Small,India,2024-12-01,Outbound Sales,536.09
+529,"Daniels, Vance and York",Legal,Enterprise,Australia,2025-10-01,Outbound Sales,906.0
+530,"Mckinney, Graves and Thompson",Legal,Mid-Market,US,2025-10-01,Paid Search,514.36
+531,Hicks-Martinez,Fintech,Mid-Market,IN,2025-03-01,Referral,126.96
+532,Conner and Sons,Real Estate,Small,US,2025-06-01,Organic,34.96
+533,Johnson-Spencer,Manufacturing,Mid-Market,US,2026-02-01,Referral,99.13
+534,Mcdonald-Bird,Real Estate,Small,United States,2025-09-01,Paid Search,328.03
+535,Salazar Inc,Fintech,Enterprise,United Kingdom,2025-05-01,Organic,40.53
+536,Parker Ltd,Media,Small,USA,2026-05-01,Partner,182.52
+537,"Mendoza, Jenkins and Ortiz",Manufacturing,Small,U.K.,2025-04-01,Outbound Sales,922.62
+538,"Jones, Compton and Day",Media,Small,United States,2025-10-01,Referral,137.63
+539,Owens-Holmes,Logistics,Small,United States,2025-08-01,Organic,30.92
+540,Humphrey PLC,Real Estate,Small,United States,2024-11-01,Partner,302.44
+541,"Matthews, Saunders and Anderson",Logistics,Mid-Market,IN,2026-02-01,Paid Search,511.79
+542,"Bartlett, Brown and Martinez",Manufacturing,Enterprise,united states,2025-03-01,Partner,497.57
+543,Torres and Sons,Edtech,Small,India,2026-01-01,Partner,272.93
+544,Donovan-Perez,Retail,Mid-Market,united states,2025-07-01,Paid Search,59.46
+545,"Jacobson, Singleton and King",Hospitality,Small,US,2025-02-01,Organic,50.14
+546,"Huber, Hill and Weber",Healthcare,Mid-Market,Germany,2025-11-01,Paid Search,529.83
+547,"Ferguson, Shaw and Jackson",Real Estate,Small,U.K.,2025-10-01,Organic,51.37
+548,"Moore, Hopkins and Le",Media,Mid-Market,US,2025-05-01,Organic,63.16
+549,"Morgan, Bradshaw and Williams",Fintech,Small,India,2024-09-01,Paid Search,367.7
+550,Miller Ltd,Retail,Enterprise,United States,2025-02-01,Referral,89.3
+551,"Baker, Clark and Armstrong",Real Estate,Small,UK,2025-02-01,Referral,112.45
+552,"Fowler, Jimenez and Burton",Healthcare,Small,United Kingdom,2025-04-01,Partner,385.02
+553,May-Turner,Legal,Mid-Market,Australia,2025-04-01,Partner,409.48
+554,Ballard Ltd,Media,Small,India,2024-12-01,Referral,68.4
+555,Evans-Jones,Manufacturing,Mid-Market,IN,2025-10-01,Outbound Sales,542.6
+556,Moore Group,Hospitality,Small,united states,2025-10-01,Paid Search,539.21
+557,Marshall-Peterson,Media,Small,Australia,2025-04-01,Partner,381.15
+558,Edwards Ltd,Healthcare,Mid-Market,U.K.,2026-01-01,Referral,149.87
+559,Gross-Valencia,Hospitality,Enterprise,DE,2025-03-01,Organic,33.76
+560,Anderson-Wood,Logistics,Mid-Market,UK,2025-12-01,Referral,83.33
+561,"Rodriguez, Allen and Martinez",Manufacturing,Mid-Market,India,2026-02-01,Paid Search,501.1
+562,Wright-Davis,Real Estate,Small,USA,2025-04-01,Partner,259.9
+563,Dougherty-Lin,Edtech,Mid-Market,CA,2025-09-01,Paid Search,537.09
+564,Wright-Grimes,Healthcare,Small,CA,2025-06-01,Organic,37.48
+565,Li PLC,Legal,Small,DE,2025-09-01,Organic,53.05
+566,"Edwards, Hines and Jimenez",Retail,Small,DE,2025-01-01,Organic,67.33
+567,"Owens, Koch and Jimenez",Logistics,Mid-Market,AU,2025-03-01,Referral,100.52
+568,Landry PLC,Healthcare,Small,Germany,2025-07-01,Outbound Sales,1073.72
+569,Levy-Lewis,Healthcare,Small,united states,2025-08-01,Paid Search,337.22
+570,Williams-Campbell,Hospitality,Small,USA,2025-07-01,Referral,86.95
+571,"Khan, Pena and Ruiz",Retail,Small,Germany,2024-12-01,Organic,72.67
+572,"Smith, Rodriguez and Anderson",Edtech,Mid-Market,US,2024-11-01,Outbound Sales,752.08
+573,Luna-Gallagher,Hospitality,Small,India,2025-08-01,Organic,69.0
+574,Williams-Williams,Healthcare,Enterprise,USA,2025-03-01,Paid Search,394.34
+575,"Lee, Tran and Jones",Hospitality,Mid-Market,India,2024-12-01,Organic,68.92
+576,"Cole, Pierce and Bryan",Edtech,Small,USA,2025-05-01,Paid Search,381.0
+577,"Becker, Wilson and Hester",Fintech,Enterprise,IN,2025-02-01,Organic,61.86
+578,Brooks-Hatfield,Logistics,Enterprise,United States,2025-07-01,Organic,33.93
+579,"Mcmillan, Fischer and Gonzalez",Fintech,Small,USA,2025-03-01,Referral,164.96
+580,"Morales, Williams and Williams",Fintech,Mid-Market,CA,2024-10-01,Organic,65.6
+581,"Cook, Wells and Bryant",Retail,Mid-Market,India,2025-09-01,Paid Search,523.76
+582,"Barry, Taylor and Velazquez",Retail,Enterprise,USA,2026-02-01,Organic,30.79
+583,Martin-Ewing,Edtech,Mid-Market,AU,2025-09-01,Organic,70.8
+584,"Kirby, Wheeler and Romero",Retail,Small,US,2025-04-01,Referral,141.74
+585,"Patel, Erickson and Evans",Logistics,Mid-Market,Canada,2025-05-01,Paid Search,406.64
+586,Richardson Ltd,Fintech,Small,United States,2026-04-01,Organic,55.26
+587,Whitney PLC,Media,Small,U.K.,2024-12-01,Outbound Sales,538.77
+588,Robles-Swanson,Healthcare,Mid-Market,United States,2025-09-01,Referral,106.83
+589,"Soto, Carlson and Baker",Real Estate,Small,united states,2025-08-01,Referral,130.78
+590,"Patton, Parsons and Lane",Legal,Small,US,2025-03-01,Organic,57.1
+591,"Williams, Castillo and Warren",Real Estate,Small,India,2024-12-01,Referral,168.45
+592,"Harvey, Randall and Hernandez",Hospitality,Mid-Market,Germany,2026-02-01,Partner,374.78
+593,"Allen, Armstrong and Graves",Legal,Mid-Market,India,2026-02-01,Organic,67.71
+594,Smith LLC,Real Estate,Enterprise,US,2025-06-01,Paid Search,526.65
+595,Hernandez-Vaughn,Retail,Mid-Market,India,2025-07-01,Organic,60.13
+596,Shaw-Carr,Media,Small,IN,2025-10-01,Referral,111.91
+597,Salas-Fitzgerald,Healthcare,Small,IN,2025-09-01,Paid Search,510.56
+598,Thornton PLC,Real Estate,Small,united states,2025-11-01,Paid Search,470.73
+599,Hoffman Ltd,Healthcare,Small,India,2025-03-01,Organic,59.91
+600,Fox-Edwards,Hospitality,Small,IN,2025-10-01,Referral,119.5
+601,Stevens PLC,Healthcare,Enterprise,USA,2025-01-01,Organic,56.78
+602,Payne-Lowe,Logistics,Small,United Kingdom,2025-11-01,Organic,37.01
+603,"Becker, Lara and Baker",Media,Small,US,2025-03-01,Paid Search,208.71
+604,Lee-Wright,Real Estate,Enterprise,DE,2025-11-01,Paid Search,509.94
+605,"Evans, David and Hendrix",Healthcare,Enterprise,united states,2026-03-01,Paid Search,529.61
+606,Bush-Vaughn,Legal,Small,United States,2024-12-01,Referral,120.27
+607,Stewart-Bailey,Media,Mid-Market,Germany,2025-02-01,Referral,125.24
+608,"Hill, Martinez and Rhodes",Edtech,Mid-Market,IN,2025-05-01,Organic,52.06
+609,Huang-Foster,Manufacturing,Small,UK,2025-02-01,Organic,51.4
+610,Blevins-Ballard,Media,Enterprise,united states,2024-12-01,Organic,71.81
+611,Williams-Moses,Healthcare,Mid-Market,united states,2025-03-01,Organic,51.32
+612,Reed Group,Media,Small,US,2025-03-01,Paid Search,278.19
+613,"Scott, Mendoza and Harris",Logistics,Small,CA,2025-02-01,Referral,57.24
+614,"Nelson, Hoffman and Nelson",Fintech,Small,UK,2025-06-01,Referral,162.39
+615,Gilbert PLC,Healthcare,Small,IN,2025-06-01,Partner,341.17
+616,Sanchez Ltd,Healthcare,Small,United States,2025-07-01,Paid Search,699.66
+617,"Perez, Hall and Garcia",Media,Small,United States,2025-08-01,Paid Search,435.14
+618,Love-Garcia,Manufacturing,Small,United States,2025-05-01,Partner,313.26
+619,Smith PLC,Legal,Small,India,2025-05-01,Referral,87.11
+620,Russell Group,Hospitality,Mid-Market,India,2025-09-01,Partner,362.87
+621,Santos-Avila,Healthcare,Small,IN,2025-11-01,Paid Search,423.12
+622,Morris-Brewer,Manufacturing,Small,AU,2025-12-01,Paid Search,610.89
+623,Pearson and Sons,Retail,Small,DE,2025-04-01,Outbound Sales,837.97
+624,"Rodgers, Jefferson and Johnson",Hospitality,Small,US,2026-03-01,Referral,148.22
+625,Butler and Sons,Manufacturing,Small,DE,2025-04-01,Paid Search,328.74
+626,Osborn Group,Hospitality,Small,United States,2025-04-01,Paid Search,372.52
+627,Lopez-Curry,Edtech,Small,U.K.,2025-09-01,Referral,113.73
+628,Mcdowell-Smith,Real Estate,Small,Germany,2025-10-01,Paid Search,687.39
+629,"Morrison, Hebert and Rogers",Healthcare,Small,India,2025-10-01,Partner,356.33
+630,Hays-Daniels,Legal,Mid-Market,UK,2025-01-01,Referral,138.72
+631,Small-Anderson,Healthcare,Mid-Market,US,2025-02-01,Partner,326.7
+632,"Mcdonald, Lee and Rodriguez",Hospitality,Mid-Market,UK,2025-07-01,Partner,316.35
+633,Simon Ltd,Media,Small,USA,2025-07-01,Paid Search,338.87
+634,Higgins-Smith,Hospitality,Small,United States,2025-03-01,Organic,61.67
+635,Gibbs-Bradley,Retail,Small,IN,2026-01-01,Organic,52.78
+636,Thompson Ltd,Logistics,Small,United Kingdom,2025-11-01,Partner,264.05
+637,Wilcox-Robertson,Manufacturing,Small,US,2025-08-01,Outbound Sales,580.05
+638,Morales Inc,Retail,Mid-Market,UK,2025-02-01,Organic,63.81
+639,Holden Group,Fintech,Small,United Kingdom,2025-03-01,Partner,353.45
+640,Boyle-Smith,Media,Small,U.K.,2024-12-01,Paid Search,535.45
+641,Young-Molina,Fintech,Mid-Market,United States,2024-11-01,Organic,45.84
+642,Turner-Sharp,Retail,Enterprise,U.K.,2024-11-01,Paid Search,505.3
+643,Green LLC,Legal,Mid-Market,United States,2025-12-01,Outbound Sales,794.44
+644,"Young, Contreras and Marshall",Media,Small,USA,2024-12-01,Outbound Sales,1045.04
+645,Sullivan PLC,Real Estate,Small,DE,2025-09-01,Partner,292.7
+646,"Carrillo, Vaughn and Fowler",Fintech,Mid-Market,US,2024-10-01,Partner,262.22
+647,Richardson-Walker,Logistics,Small,UK,2025-03-01,Organic,66.69
+648,Mendoza Group,Hospitality,Mid-Market,IN,2025-11-01,Referral,138.89
+649,"Zhang, Brooks and Miles",Retail,Small,India,2025-12-01,Referral,173.06
+650,Todd-Pham,Fintech,Enterprise,India,2025-02-01,Outbound Sales,789.27
+651,Gill Ltd,Healthcare,Mid-Market,India,2025-04-01,Organic,63.98
+652,"Marks, Miller and Griffin",Real Estate,Mid-Market,US,2025-07-01,Paid Search,511.8
+653,"Cox, Stark and Rodriguez",Real Estate,Mid-Market,united states,2025-08-01,Outbound Sales,900.31
+654,"Leach, Harris and Herrera",Media,Small,IN,2025-08-01,Organic,34.04
+655,Murphy PLC,Edtech,Mid-Market,IN,2025-08-01,Organic,45.03
+656,Wilson-Harris,Manufacturing,Mid-Market,United States,2025-11-01,Organic,72.75
+657,"Burns, Nolan and Griffin",Healthcare,Small,UK,2025-07-01,Partner,226.48
+658,Chavez PLC,Hospitality,Enterprise,IN,2025-01-01,Organic,88.27
+659,Bryant-Brown,Legal,Mid-Market,IN,2025-07-01,Paid Search,359.16
+660,Chambers-Parker,Retail,Small,AU,2025-12-01,Referral,115.53
+661,Foster Inc,Media,Mid-Market,Australia,2025-12-01,Organic,38.81
+662,"Robinson, Jones and Henderson",Retail,Mid-Market,United States,2026-06-01,Partner,374.7
+663,"Brown, Mcknight and Michael",Logistics,Small,India,2026-04-01,Partner,286.32
+664,Andersen Group,Fintech,Enterprise,Germany,2026-04-01,Partner,263.65
+665,Mitchell and Sons,Logistics,Small,US,2024-12-01,Organic,41.75
+666,Cannon Ltd,Healthcare,Small,US,2025-03-01,Organic,41.19
+667,"Stuart, Brooks and Vance",Real Estate,Mid-Market,United Kingdom,2026-04-01,Outbound Sales,517.0
+668,Kane-Knox,Fintech,Small,united states,2025-04-01,Organic,44.21
+669,Miller-Brandt,Media,Small,USA,2025-03-01,Referral,108.62
+670,"Anderson, Dalton and Wilson",Legal,Small,USA,2025-12-01,Organic,54.15
+671,"Long, Anderson and Irwin",Healthcare,Small,IN,2025-03-01,Partner,317.73
+672,Avila LLC,Retail,Small,IN,2025-01-01,Organic,36.71
+673,Nunez-Stephens,Retail,Mid-Market,IN,2024-12-01,Paid Search,316.59
+674,"Gray, Hall and Murray",Healthcare,Mid-Market,UK,2025-07-01,Partner,125.85
+675,Hill Ltd,Hospitality,Small,IN,2025-03-01,Partner,211.17
+676,Johnson Ltd,Hospitality,Mid-Market,IN,2025-09-01,Paid Search,393.82
+677,Mendez-Mayer,Media,Mid-Market,DE,2025-04-01,Paid Search,390.81
+678,Allen Inc,Healthcare,Small,US,2025-01-01,Outbound Sales,458.03
+679,Wheeler Group,Retail,Mid-Market,IN,2025-07-01,Paid Search,311.26
+680,"Powers, Brennan and Sanchez",Fintech,Mid-Market,UK,2025-04-01,Organic,58.26
+681,Morales and Sons,Manufacturing,Small,united states,2025-02-01,Organic,55.52
+682,"Robinson, Shields and Brown",Media,Small,Canada,2026-02-01,Referral,107.09
+683,"Holder, Young and Hendricks",Edtech,Mid-Market,Germany,2025-04-01,Paid Search,463.07
+684,"Flores, Harper and Chambers",Hospitality,Small,united states,2025-10-01,Referral,94.65
+685,Young-Walter,Legal,Mid-Market,AU,2025-02-01,Organic,53.7
+686,"Boyd, Gutierrez and Hill",Media,Small,United States,2025-09-01,Paid Search,492.21
+687,"Fry, Hobbs and Buck",Manufacturing,Enterprise,IN,2024-12-01,Outbound Sales,752.36
+688,"Shelton, Peters and Williams",Manufacturing,Small,India,2025-05-01,Partner,245.03
+689,David-Powers,Healthcare,Small,India,2025-05-01,Referral,155.15
+690,"Flores, Butler and Hernandez",Legal,Small,United States,2024-11-01,Paid Search,408.9
+691,White-Medina,Manufacturing,Small,Australia,2025-07-01,Paid Search,376.78
+692,Atkinson LLC,Fintech,Small,IN,2025-06-01,Partner,300.14
+693,"Thomas, Ford and Brown",Healthcare,Small,India,2024-10-01,Organic,53.11
+694,Faulkner-Grant,Logistics,Small,USA,2025-02-01,Partner,232.99
+695,Price LLC,Fintech,Mid-Market,USA,2025-09-01,Partner,356.56
+696,Rivera Inc,Healthcare,Small,USA,2026-02-01,Organic,36.02
+697,Boone-Davis,Real Estate,Small,India,2025-11-01,Partner,247.3
+698,"Calderon, Williams and Bennett",Hospitality,Small,UK,2026-03-01,Outbound Sales,628.94
+699,"Morrison, Russo and Lopez",Real Estate,Small,U.K.,2025-07-01,Paid Search,487.28
+700,"Ramsey, Hansen and Mendoza",Manufacturing,Mid-Market,CA,2025-03-01,Organic,56.67
+701,Turner-Stout,Real Estate,Small,India,2025-09-01,Outbound Sales,655.13
+702,Giles Ltd,Real Estate,Mid-Market,United States,2025-05-01,Paid Search,306.07
+703,Burgess Group,Logistics,Enterprise,united states,2026-02-01,Paid Search,326.77
+704,Dominguez Ltd,Hospitality,Small,IN,2025-05-01,Organic,53.73
+705,Sanders and Sons,Manufacturing,Mid-Market,United Kingdom,2025-08-01,Partner,364.89
+706,"Morris, Campbell and Owens",Logistics,Small,United States,2025-10-01,Organic,52.08
+707,"Howard, Green and Hunt",Real Estate,Mid-Market,IN,2025-08-01,Paid Search,419.61
+708,Owens-Lang,Retail,Small,United States,2025-03-01,Organic,57.42
+709,"Harrison, Franco and Rocha",Logistics,Small,DE,2025-05-01,Organic,52.87
+710,Edwards-Williams,Healthcare,Small,United States,2025-06-01,Referral,171.38
+711,Figueroa Inc,Real Estate,Mid-Market,united states,2025-01-01,Paid Search,418.8
+712,Tran-Silva,Real Estate,Mid-Market,Australia,2025-08-01,Partner,353.64
+713,"Butler, Hernandez and Rivera",Manufacturing,Small,Australia,2025-08-01,Paid Search,502.51
+714,Hudson-Sanchez,Legal,Enterprise,IN,2025-07-01,Organic,56.33
+715,"Pena, Cohen and Scott",Retail,Small,USA,2025-02-01,Referral,132.7
+716,Levy-May,Healthcare,Enterprise,IN,2025-02-01,Organic,76.01
+717,Murray-Oconnor,Healthcare,Small,CA,2025-11-01,Organic,49.18
+718,Jackson-Cortez,Retail,Small,USA,2024-11-01,Referral,133.52
+719,White-Preston,Real Estate,Mid-Market,India,2025-02-01,Organic,26.68
+720,"Bernard, Warren and Combs",Legal,Small,IN,2025-11-01,Paid Search,565.72
+721,Landry Ltd,Manufacturing,Small,USA,2025-10-01,Organic,49.15
+722,Duran Group,Logistics,Mid-Market,US,2025-11-01,Paid Search,354.22
+723,Kirby and Sons,Media,Small,united states,2025-11-01,Paid Search,496.21
+724,Mann Inc,Hospitality,Small,UK,2026-02-01,Paid Search,428.98
+725,Wagner LLC,Manufacturing,Mid-Market,India,2025-05-01,Organic,52.01
+726,Williamson Ltd,Manufacturing,Small,United States,2025-09-01,Paid Search,456.0
+727,"Durham, Hopkins and Smith",Legal,Mid-Market,Australia,2025-07-01,Referral,113.51
+728,"Arnold, Smith and Moreno",Logistics,Mid-Market,DE,2025-04-01,Partner,252.73
+729,Nichols-Mitchell,Hospitality,Mid-Market,US,2025-04-01,Organic,36.63
+730,"Li, Craig and Drake",Manufacturing,Small,USA,2025-08-01,Paid Search,248.97
+731,Rodriguez Inc,Hospitality,Enterprise,Germany,2025-01-01,Organic,35.0
+732,"Hernandez, Lee and Fox",Manufacturing,Mid-Market,USA,2025-06-01,Paid Search,417.12
+733,Adams-Sanders,Media,Small,US,2026-03-01,Partner,402.78
+734,Chung-Stevens,Hospitality,Small,India,2025-09-01,Referral,162.88
+735,Branch and Sons,Logistics,Mid-Market,Germany,2025-09-01,Organic,51.9
+736,Sutton-Abbott,Manufacturing,Small,united states,2025-05-01,Outbound Sales,1182.33
+737,"Frey, Santos and Johnson",Legal,Small,India,2025-11-01,Paid Search,525.71
+738,Gray-Tran,Media,Enterprise,United States,2024-11-01,Organic,27.94
+739,Walsh Ltd,Retail,Mid-Market,US,2026-03-01,Referral,159.24
+740,Miller Group,Logistics,Small,IN,2026-02-01,Partner,211.59
+741,"Mueller, Knight and Hodge",Edtech,Small,USA,2026-05-01,Referral,158.47
+742,Jacobson Inc,Real Estate,Small,US,2026-02-01,Referral,152.63
+743,Lewis Ltd,Edtech,Small,India,2025-03-01,Paid Search,413.12
+744,"Alvarez, Williams and Jones",Fintech,Small,Australia,2025-10-01,Organic,45.77
+745,Lam-Elliott,Logistics,Small,United States,2024-12-01,Referral,86.02
+746,White LLC,Legal,Small,Germany,2024-10-01,Outbound Sales,977.48
+747,Ali PLC,Manufacturing,Small,Germany,2025-02-01,Outbound Sales,766.37
+748,Goodwin Ltd,Hospitality,Mid-Market,USA,2025-07-01,Organic,48.67
+749,Hickman-Evans,Fintech,Small,DE,2024-10-01,Paid Search,460.89
+750,"Allen, Davenport and Price",Fintech,Mid-Market,India,2026-04-01,Organic,43.7
+751,"Rivera, Campos and Taylor",Real Estate,Small,Australia,2025-03-01,Paid Search,379.1
+752,"Ramsey, Mason and Mccann",Media,Small,Germany,2025-11-01,Organic,50.87
+753,Davis and Sons,Edtech,Enterprise,AU,2025-11-01,Organic,25.18
+754,Peterson PLC,Hospitality,Small,united states,2024-12-01,Partner,254.25
+755,"Sanders, Ayala and Johnson",Real Estate,Small,IN,2025-06-01,Paid Search,525.73
+756,Bowers-Hayes,Legal,Small,Germany,2025-07-01,Partner,122.23
+757,Kelly Group,Logistics,Small,USA,2025-01-01,Paid Search,641.04
+758,Lopez-Willis,Edtech,Small,united states,2024-11-01,Referral,94.05
+759,Miller-Montgomery,Hospitality,Small,US,2025-08-01,Partner,276.56
+760,Marquez Inc,Real Estate,Mid-Market,united states,2025-05-01,Referral,138.3
+761,Moore-Dawson,Media,Small,DE,2025-08-01,Paid Search,504.2
+762,"Moore, Price and Ward",Fintech,Enterprise,united states,2025-08-01,Organic,41.3
+763,Smith LLC,Hospitality,Mid-Market,Canada,2025-01-01,Outbound Sales,1036.18
+764,Ward-Nelson,Logistics,Mid-Market,USA,2025-12-01,Paid Search,575.49
+765,Miller Group,Real Estate,Small,India,2025-05-01,Paid Search,578.77
+766,Hawkins-Hunt,Legal,Mid-Market,UK,2026-02-01,Partner,315.73
+767,Johnson LLC,Legal,Small,United States,2025-10-01,Partner,349.76
+768,"Davis, George and Nguyen",Logistics,Enterprise,United States,2025-12-01,Organic,40.95
+769,Smith-Gutierrez,Fintech,Mid-Market,Germany,2025-08-01,Paid Search,551.43
+770,Hardy PLC,Real Estate,Small,IN,2025-08-01,Paid Search,639.95
+771,Armstrong and Sons,Media,Mid-Market,USA,2025-10-01,Referral,138.56
+772,"James, Taylor and Turner",Edtech,Mid-Market,United States,2025-02-01,Organic,33.55
+773,Thomas-Jackson,Manufacturing,Enterprise,united states,2025-11-01,Referral,111.41
+774,Fisher-Washington,Media,Small,India,2025-04-01,Organic,23.56
+775,Ward and Sons,Media,Small,United States,2025-03-01,Referral,163.3
+776,"Weber, Wheeler and Gonzalez",Manufacturing,Small,U.K.,2025-03-01,Outbound Sales,403.56
+777,Taylor Inc,Media,Small,India,2025-12-01,Referral,96.81
+778,Cook-Oliver,Manufacturing,Small,United States,2025-07-01,Outbound Sales,900.11
+779,Alexander-Jordan,Retail,Enterprise,United Kingdom,2025-01-01,Organic,73.77
+780,"Mccann, Taylor and Flores",Healthcare,Enterprise,UK,2025-10-01,Referral,127.34
+781,"Harris, Edwards and Oconnell",Fintech,Mid-Market,US,2025-03-01,Organic,58.16
+782,Carter-Neal,Retail,Small,USA,2025-07-01,Referral,85.87
+783,Faulkner-Casey,Real Estate,Small,IN,2025-08-01,Paid Search,364.48
+784,Bennett-Velasquez,Real Estate,Small,Germany,2025-09-01,Organic,53.59
+785,Diaz-Frederick,Hospitality,Mid-Market,united states,2025-09-01,Organic,50.31
+786,Vargas PLC,Healthcare,Small,India,2026-03-01,Paid Search,416.2
+787,Maldonado PLC,Logistics,Small,United States,2025-06-01,Referral,78.33
+788,Benton Group,Fintech,Enterprise,USA,2025-03-01,Organic,42.56
+789,"Clark, Salinas and Guerra",Healthcare,Small,IN,2025-05-01,Partner,257.85
+790,Fuentes Group,Edtech,Small,UK,2025-04-01,Referral,150.44
+791,"Porter, Schultz and Allen",Healthcare,Mid-Market,IN,2025-01-01,Organic,71.65
+792,"Moore, Henderson and Bennett",Edtech,Mid-Market,Australia,2025-09-01,Paid Search,529.07
+793,Ewing-Mendoza,Hospitality,Mid-Market,united states,2025-07-01,Organic,44.26
+794,Ferguson-Mclean,Healthcare,Enterprise,united states,2025-11-01,Organic,28.27
+795,"Barnes, Johnson and Schmitt",Real Estate,Small,India,2025-01-01,Referral,94.4
+796,"Woodard, Herrera and Little",Legal,Small,India,2025-01-01,Paid Search,459.59
+797,Rodriguez and Sons,Fintech,Small,Germany,2025-08-01,Organic,74.64
+798,"Ortega, Jackson and Salazar",Media,Mid-Market,IN,2025-03-01,Partner,298.54
+799,"Terrell, Byrd and Ross",Hospitality,Small,United Kingdom,2025-07-01,Paid Search,391.59
+800,Sheppard-Jordan,Edtech,Enterprise,IN,2025-09-01,Paid Search,693.45
+801,Garcia and Sons,Fintech,Small,united states,2024-10-01,Organic,59.58
+802,"Burgess, Grant and Watts",Legal,Small,United States,2025-08-01,Partner,375.78
+803,Griffin Group,Healthcare,Enterprise,AU,2025-05-01,Organic,52.73
+804,Barton-Chapman,Media,Small,United States,2025-04-01,Paid Search,339.88
+805,"Hernandez, Cuevas and Webb",Retail,Small,UK,2025-01-01,Outbound Sales,435.38
+806,Perry-Nixon,Manufacturing,Small,AU,2025-01-01,Paid Search,372.83
+807,Guerra Ltd,Retail,Enterprise,IN,2025-08-01,Referral,125.18
+808,Bailey LLC,Healthcare,Mid-Market,IN,2025-01-01,Referral,135.33
+809,Mueller-Boyd,Edtech,Mid-Market,US,2025-04-01,Organic,36.03
+810,Alvarez-Kim,Hospitality,Mid-Market,United States,2025-02-01,Referral,109.24
+811,"Chavez, Jones and Williams",Fintech,Small,IN,2025-12-01,Paid Search,470.8
+812,"Wilson, Sweeney and Wong",Manufacturing,Small,Australia,2025-06-01,Paid Search,606.46
+813,"Marsh, Spears and Yang",Fintech,Enterprise,US,2025-01-01,Paid Search,364.91
+814,"Thompson, Moore and Castro",Real Estate,Small,IN,2025-09-01,Partner,312.94
+815,Hall-Sullivan,Fintech,Enterprise,India,2025-05-01,Partner,247.0
+816,Lopez Ltd,Real Estate,Small,Australia,2025-01-01,Outbound Sales,1102.2
+817,Foster-Mclaughlin,Logistics,Enterprise,United States,2025-09-01,Paid Search,746.27
+818,Cole Group,Retail,Enterprise,India,2025-08-01,Partner,339.88
+819,Smith-Lewis,Retail,Small,Canada,2024-10-01,Organic,42.63
+820,Goodwin-Stokes,Logistics,Small,IN,2025-05-01,Paid Search,544.98
+821,Ray PLC,Legal,Small,AU,2025-07-01,Paid Search,416.99
+822,Diaz and Sons,Logistics,Small,DE,2025-11-01,Referral,76.52
+823,Wilson-Lambert,Edtech,Mid-Market,India,2025-10-01,Partner,393.09
+824,Rose-Fowler,Manufacturing,Mid-Market,CA,2025-05-01,Paid Search,514.54
+825,"Price, Long and Wilson",Manufacturing,Small,India,2025-02-01,Referral,162.01
+826,Bruce-Williamson,Healthcare,Small,UK,2025-02-01,Organic,56.93
+827,"Mccarthy, Evans and Mendez",Media,Small,US,2025-01-01,Organic,43.27
+828,Powers LLC,Real Estate,Mid-Market,IN,2025-06-01,Paid Search,434.72
+829,Allen Inc,Manufacturing,Mid-Market,IN,2025-01-01,Organic,51.58
+830,Brooks and Sons,Real Estate,Small,India,2025-12-01,Outbound Sales,734.72
+831,"Price, Carlson and Andrews",Manufacturing,Small,united states,2024-12-01,Organic,76.3
+832,Lopez-Reid,Healthcare,Small,DE,2026-02-01,Organic,57.45
+833,"Ellison, Arias and Thompson",Healthcare,Small,united states,2025-02-01,Organic,29.53
+834,Burns and Sons,Hospitality,Small,UK,2026-05-01,Outbound Sales,926.91
+835,Edwards Group,Legal,Small,India,2025-04-01,Organic,36.08
+836,"Brown, Howard and Smith",Manufacturing,Small,US,2025-05-01,Paid Search,649.14
+837,Lee Group,Healthcare,Small,Canada,2024-12-01,Referral,92.52
+838,"Wagner, Simpson and Cohen",Logistics,Mid-Market,US,2025-02-01,Organic,64.18
+839,Mckinney-Wallace,Real Estate,Mid-Market,IN,2025-08-01,Paid Search,349.03
+840,Miller Inc,Fintech,Mid-Market,united states,2026-05-01,Partner,201.59
+841,Carter LLC,Manufacturing,Mid-Market,united states,2025-02-01,Paid Search,382.79
+842,Medina and Sons,Retail,Mid-Market,IN,2025-05-01,Partner,380.84
+843,Cunningham-Barton,Hospitality,Small,US,2025-12-01,Referral,112.49
+844,Dunn-Wilson,Logistics,Small,IN,2025-04-01,Outbound Sales,659.26
+845,Adams PLC,Healthcare,Small,United States,2025-08-01,Organic,67.1
+846,Weaver-Sherman,Manufacturing,Mid-Market,united states,2025-05-01,Referral,84.94
+847,"Alexander, Robinson and Coleman",Retail,Mid-Market,India,2025-01-01,Referral,78.09
+848,"Greer, Potter and Evans",Hospitality,Mid-Market,USA,2024-10-01,Partner,325.4
+849,Cole LLC,Real Estate,Mid-Market,U.K.,2025-03-01,Referral,139.71
+850,Gonzales Inc,Fintech,Small,United States,2025-05-01,Organic,60.35
+851,Clark Ltd,Edtech,Small,India,2025-07-01,Organic,49.98
+852,"Norris, Callahan and Bishop",Manufacturing,Enterprise,US,2025-09-01,Referral,113.16
+853,Martin-Taylor,Hospitality,Small,IN,2025-02-01,Organic,60.66
+854,Li Inc,Hospitality,Small,Australia,2025-06-01,Organic,76.51
+855,"Bell, Campbell and Ryan",Real Estate,Small,India,2025-12-01,Partner,393.98
+856,Werner-Carter,Manufacturing,Small,AU,2025-09-01,Referral,131.75
+857,"Adams, Hodge and Duke",Healthcare,Mid-Market,united states,2025-03-01,Organic,56.53
+858,"Ochoa, Taylor and Brady",Legal,Small,India,2025-05-01,Organic,27.06
+859,Sellers-Riddle,Media,Mid-Market,IN,2025-02-01,Organic,41.01
+860,"Martinez, Cline and Wright",Logistics,Mid-Market,IN,2024-10-01,Referral,73.11
+861,"Morris, Wright and Bridges",Healthcare,Mid-Market,USA,2026-02-01,Organic,48.66
+862,Burns-Ray,Fintech,Enterprise,United Kingdom,2025-08-01,Outbound Sales,1124.87
+863,Burton-Brooks,Legal,Small,united states,2025-09-01,Partner,279.25
+864,Schultz Inc,Legal,Mid-Market,DE,2025-01-01,Paid Search,500.73
+865,Robertson-Ramirez,Logistics,Small,United Kingdom,2025-03-01,Partner,239.49
+866,Gibson-Freeman,Real Estate,Small,IN,2026-04-01,Outbound Sales,519.15
+867,"Smith, Schroeder and Oconnor",Hospitality,Small,United Kingdom,2025-10-01,Referral,117.14
+868,"Stanton, Reid and Terry",Real Estate,Small,UK,2025-08-01,Referral,132.51
+869,Flynn Group,Healthcare,Small,USA,2025-06-01,Paid Search,595.15
+870,Donaldson and Sons,Healthcare,Mid-Market,USA,2025-04-01,Organic,59.55
+871,Adams-Clayton,Fintech,Small,united states,2026-01-01,Partner,186.89
+872,Kelley-Anderson,Healthcare,Small,united states,2025-05-01,Organic,35.54
+873,Kramer-Shannon,Manufacturing,Mid-Market,AU,2025-11-01,Paid Search,386.44
+874,Williams Ltd,Healthcare,Small,U.K.,2026-02-01,Paid Search,497.61
+875,Smith-Noble,Logistics,Mid-Market,IN,2025-08-01,Organic,62.37
+876,Alexander Inc,Fintech,Mid-Market,Canada,2025-01-01,Paid Search,380.79
+877,Harris-Barker,Legal,Small,DE,2025-09-01,Outbound Sales,1083.8
+878,Khan LLC,Healthcare,Small,United Kingdom,2025-09-01,Referral,107.21
+879,Baxter LLC,Fintech,Mid-Market,USA,2025-12-01,Organic,47.45
+880,Pena LLC,Real Estate,Small,USA,2025-04-01,Partner,435.49
+881,Watson Ltd,Manufacturing,Mid-Market,United Kingdom,2025-02-01,Paid Search,353.23
+882,Williams Ltd,Hospitality,Mid-Market,U.K.,2025-11-01,Organic,78.68
+883,Barber-Fischer,Real Estate,Small,UK,2025-08-01,Paid Search,490.66
+884,Rios-Padilla,Hospitality,Enterprise,Australia,2025-04-01,Organic,57.6
+885,Lewis Inc,Healthcare,Small,India,2025-08-01,Organic,62.46
+886,Wheeler PLC,Media,Enterprise,US,2025-01-01,Paid Search,367.91
+887,"Wallace, Smith and Cooper",Legal,Enterprise,united states,2025-04-01,Paid Search,143.74
+888,Mcneil Group,Media,Enterprise,IN,2025-06-01,Organic,61.78
+889,"Anderson, Jones and Reyes",Fintech,Small,United States,2025-03-01,Referral,73.4
+890,"Shaffer, Garcia and Richardson",Healthcare,Mid-Market,US,2025-10-01,Partner,430.94
+891,Taylor-Ayala,Real Estate,Small,IN,2025-05-01,Organic,51.05
+892,May Ltd,Fintech,Enterprise,CA,2025-07-01,Paid Search,635.76
+893,Jones PLC,Fintech,Small,USA,2025-04-01,Organic,32.39
+894,Bishop and Sons,Legal,Small,DE,2026-01-01,Referral,107.74
+895,Bell-Lewis,Healthcare,Small,United States,2025-01-01,Referral,116.4
+896,"Hernandez, Jenkins and Parks",Logistics,Mid-Market,USA,2025-06-01,Paid Search,533.3
+897,Miller Inc,Fintech,Mid-Market,USA,2025-09-01,Organic,48.67
+898,Goodwin PLC,Edtech,Small,IN,2025-04-01,Referral,106.39
+899,"Cruz, Richmond and Edwards",Legal,Enterprise,DE,2025-12-01,Organic,47.34
+900,Wright Ltd,Healthcare,Small,CA,2025-05-01,Partner,412.82
+901,Wright PLC,Edtech,Small,CA,2025-06-01,Partner,321.63
+902,"Griffith, Mitchell and Pugh",Fintech,Mid-Market,IN,2024-10-01,Organic,42.97
+903,Abbott Ltd,Hospitality,Small,DE,2025-04-01,Organic,36.7
+904,Harris-Lawson,Legal,Small,United States,2024-12-01,Referral,96.3
+905,Adkins LLC,Hospitality,Small,USA,2025-05-01,Partner,298.81
+906,"Brown, Hurst and Blevins",Fintech,Small,Canada,2025-01-01,Organic,61.45
+907,Cruz-Allen,Hospitality,Mid-Market,US,2025-03-01,Organic,45.19
+908,"Wheeler, Rice and Levine",Retail,Small,United States,2025-01-01,Outbound Sales,964.94
+909,Peck-Anderson,Retail,Mid-Market,India,2025-11-01,Organic,47.46
+910,"Fisher, Payne and Thompson",Edtech,Enterprise,IN,2024-10-01,Partner,316.53
+911,Best-Townsend,Hospitality,Small,DE,2026-01-01,Partner,252.06
+912,Matthews Inc,Real Estate,Small,United States,2025-04-01,Paid Search,349.77
+913,Lewis-Livingston,Logistics,Mid-Market,US,2025-08-01,Paid Search,612.66
+914,Hunter-Fuller,Edtech,Small,united states,2025-08-01,Paid Search,451.84
+915,"Wang, Henderson and Morales",Logistics,Small,IN,2025-04-01,Organic,48.32
+916,"Herrera, Jensen and Ramirez",Healthcare,Small,united states,2025-02-01,Outbound Sales,992.72
+917,Miller-Mccall,Fintech,Small,United States,2025-10-01,Outbound Sales,1195.83
+918,Herrera Group,Media,Enterprise,united states,2025-07-01,Organic,42.93
+919,"Walters, Davenport and Becker",Real Estate,Mid-Market,AU,2026-01-01,Referral,82.52
+920,Collins Group,Manufacturing,Mid-Market,USA,2025-04-01,Referral,86.76
+921,"Ashley, Allen and Sanchez",Manufacturing,Mid-Market,USA,2025-04-01,Organic,40.23
+922,Wilson-Salazar,Manufacturing,Mid-Market,U.K.,2025-07-01,Paid Search,334.69
+923,Parker Ltd,Media,Mid-Market,IN,2025-02-01,Partner,275.4
+924,"Yang, Wilson and Zimmerman",Manufacturing,Small,United Kingdom,2024-10-01,Paid Search,540.12
+925,"Smith, Crawford and Reed",Manufacturing,Enterprise,United States,2025-07-01,Paid Search,389.68
+926,"Logan, Le and Jackson",Real Estate,Small,India,2024-09-01,Organic,46.7
+927,Brady LLC,Logistics,Small,United States,2026-02-01,Outbound Sales,1049.11
+928,"Tanner, Wise and Johnson",Edtech,Small,IN,2025-12-01,Paid Search,359.2
+929,Nelson-Brown,Healthcare,Small,Australia,2025-02-01,Paid Search,599.17
+930,"Proctor, Burton and Crawford",Logistics,Enterprise,United Kingdom,2026-03-01,Referral,100.42
+931,"Ward, Porter and Bradley",Hospitality,Enterprise,united states,2024-11-01,Paid Search,533.69
+932,Moore-Ayala,Edtech,Small,united states,2025-05-01,Outbound Sales,712.64
+933,"Craig, Wilson and Yang",Manufacturing,Mid-Market,USA,2025-05-01,Outbound Sales,1240.5
+934,Williams Inc,Edtech,Small,IN,2025-04-01,Partner,329.85
+935,Williams LLC,Real Estate,Mid-Market,Australia,2025-10-01,Referral,143.54
+936,Mora-White,Real Estate,Mid-Market,united states,2025-04-01,Paid Search,519.92
+937,Tran Ltd,Real Estate,Mid-Market,UK,2025-05-01,Paid Search,322.26
+938,"Rios, Walker and Wright",Healthcare,Mid-Market,United States,2025-06-01,Organic,56.1
+939,"Flores, Mckenzie and Duncan",Legal,Enterprise,united states,2025-05-01,Outbound Sales,701.06
+940,Shaw Inc,Edtech,Small,UK,2025-06-01,Organic,17.64
+941,Walker PLC,Hospitality,Mid-Market,USA,2025-01-01,Organic,59.41
+942,Finley Inc,Retail,Mid-Market,US,2025-06-01,Referral,84.38
+943,Cline-Ayala,Logistics,Mid-Market,United Kingdom,2025-09-01,Outbound Sales,481.4
+944,Murphy-Tran,Hospitality,Small,AU,2024-12-01,Organic,60.8
+945,Wood LLC,Logistics,Small,IN,2025-11-01,Paid Search,581.02
+946,"Mueller, Stevenson and Sanchez",Healthcare,Mid-Market,United States,2025-12-01,Partner,293.46
+947,Vargas-Snyder,Fintech,Mid-Market,IN,2025-02-01,Organic,53.93
+948,Oconnor PLC,Manufacturing,Small,US,2025-02-01,Organic,72.98
+949,Hernandez Group,Manufacturing,Mid-Market,DE,2025-06-01,Referral,137.66
+950,Hall LLC,Media,Small,India,2026-02-01,Organic,48.95
+951,"Franco, Wiley and Tapia",Hospitality,Mid-Market,United States,2025-09-01,Paid Search,729.56
+952,Blake Group,Manufacturing,Enterprise,USA,2025-02-01,Referral,157.58
+953,"Acosta, Garcia and Moreno",Healthcare,Mid-Market,AU,2025-09-01,Partner,204.41
+954,Barnes Inc,Legal,Small,IN,2025-07-01,Paid Search,492.7
+955,Dawson Inc,Legal,Small,IN,2025-04-01,Organic,43.48
+956,Morse PLC,Hospitality,Small,UK,2025-05-01,Paid Search,507.02
+957,Haynes-Watson,Fintech,Small,United States,2025-06-01,Outbound Sales,901.04
+958,"Miller, Davis and Anderson",Media,Small,United States,2025-09-01,Paid Search,542.24
+959,Jones-Bradley,Manufacturing,Small,US,2026-01-01,Referral,116.82
+960,Bates-Anderson,Fintech,Small,IN,2026-03-01,Referral,171.14
+961,Green-Edwards,Hospitality,Small,India,2025-05-01,Organic,41.06
+962,Haynes-Moss,Legal,Small,united states,2025-10-01,Referral,101.7
+963,Chavez-Hall,Retail,Small,United States,2024-11-01,Partner,388.32
+964,Taylor PLC,Fintech,Mid-Market,United States,2025-05-01,Paid Search,426.08
+965,Moore and Sons,Real Estate,Small,US,2025-07-01,Paid Search,418.91
+966,Owens-Russell,Fintech,Mid-Market,CA,2025-10-01,Outbound Sales,716.39
+967,"Howard, Townsend and Hayes",Legal,Small,U.K.,2025-07-01,Organic,40.89
+968,Baker-Wilson,Manufacturing,Enterprise,USA,2025-10-01,Paid Search,691.7
+969,Aguirre LLC,Fintech,Small,IN,2024-11-01,Outbound Sales,1108.55
+970,"Terry, Williams and Huff",Hospitality,Small,DE,2025-04-01,Referral,186.13
+971,Hernandez-Dawson,Hospitality,Small,US,2024-12-01,Outbound Sales,1208.26
+972,Foster-Williams,Legal,Small,AU,2025-08-01,Referral,71.01
+973,Green-Ewing,Legal,Enterprise,U.K.,2025-07-01,Paid Search,487.0
+974,Crane Group,Hospitality,Small,united states,2025-07-01,Paid Search,544.54
+975,"Adkins, Wright and Murray",Real Estate,Mid-Market,UK,2026-01-01,Referral,92.57
+976,Martinez Inc,Manufacturing,Small,United States,2025-05-01,Referral,102.72
+977,Anderson Group,Healthcare,Mid-Market,IN,2025-04-01,Organic,46.37
+978,Parks-Pace,Hospitality,Small,IN,2025-05-01,Organic,45.48
+979,Aguilar LLC,Retail,Enterprise,DE,2025-05-01,Partner,305.98
+980,Johnson Inc,Logistics,Enterprise,DE,2025-04-01,Organic,39.26
+981,Orr Group,Retail,Small,Australia,2025-09-01,Referral,136.76
+982,Davis LLC,Real Estate,Enterprise,U.K.,2025-04-01,Partner,286.94
+983,Williams Group,Legal,Small,Germany,2025-02-01,Referral,115.15
+984,Jackson PLC,Fintech,Mid-Market,CA,2025-03-01,Referral,101.25
+985,Underwood-Foster,Retail,Small,USA,2026-04-01,Partner,379.11
+986,Reyes Group,Edtech,Mid-Market,United States,2026-02-01,Paid Search,428.98
+987,Gomez and Sons,Real Estate,Small,India,2025-04-01,Paid Search,355.43
+988,Ramirez-Stephenson,Media,Small,IN,2025-03-01,Organic,59.37
+989,Mendez PLC,Media,Small,USA,2025-04-01,Referral,170.53
+990,Holland Group,Media,Small,India,2025-09-01,Paid Search,562.5
+991,Andrade-Mendoza,Hospitality,Small,U.K.,2025-08-01,Organic,51.93
+992,Ramirez and Sons,Retail,Mid-Market,AU,2025-06-01,Referral,118.73
+993,Gonzalez-Wilkerson,Legal,Enterprise,Germany,2025-10-01,Paid Search,184.8
+994,"Wright, Mcknight and Stephens",Legal,Small,USA,2025-08-01,Partner,261.38
+995,Mayo Ltd,Real Estate,Mid-Market,IN,2024-12-01,Paid Search,421.9
+996,Castillo-Harrington,Manufacturing,Small,united states,2025-06-01,Outbound Sales,971.73
+997,Durham-Shaw,Real Estate,Small,India,2025-03-01,Partner,228.65
+998,Nelson-Johnson,Legal,Small,DE,2025-03-01,Paid Search,382.06
+999,"Robinson, Huang and Osborne",Logistics,Enterprise,US,2025-02-01,Outbound Sales,600.93
+1000,Stokes Group,Real Estate,Small,U.K.,2025-05-01,Outbound Sales,886.23
+1001,"Howard, Silva and Hall",Edtech,Mid-Market,United Kingdom,2024-12-01,Organic,48.78
+1002,Garcia Ltd,Legal,Small,US,2025-05-01,Partner,216.9
+1003,Adams Ltd,Edtech,Small,AU,2025-10-01,Paid Search,257.84
+1004,Gallagher and Sons,Logistics,Mid-Market,AU,2025-12-01,Paid Search,746.74
+1005,"Bradford, Salinas and Kelly",Real Estate,Enterprise,Canada,2026-02-01,Paid Search,254.06
+1006,Thompson PLC,Real Estate,Small,IN,2025-01-01,Organic,45.36
+1007,Drake-Wolfe,Legal,Small,CA,2025-04-01,Organic,40.08
+1008,"Johnson, Haynes and Meza",Logistics,Small,IN,2025-05-01,Organic,51.87
+1009,"Thomas, Vaughan and Copeland",Hospitality,Mid-Market,United States,2024-12-01,Outbound Sales,864.07
+1010,Weaver-Thompson,Media,Enterprise,united states,2026-01-01,Partner,332.25
+1011,Davis and Sons,Fintech,Small,US,2024-12-01,Outbound Sales,827.9
+1012,"Robinson, Fox and Smith",Retail,Enterprise,UK,2025-05-01,Referral,120.74
+1013,"Harris, Anderson and Love",Healthcare,Enterprise,IN,2025-03-01,Paid Search,317.7
+1014,Brown-Hernandez,Real Estate,Small,IN,2025-12-01,Referral,109.94
+1015,"Stark, Schroeder and Mathis",Logistics,Small,U.K.,2025-06-01,Paid Search,594.75
+1016,Yu-Brooks,Edtech,Mid-Market,united states,2025-04-01,Paid Search,381.38
+1017,"Foster, Garcia and Turner",Legal,Small,Germany,2025-05-01,Referral,152.2
+1018,Daugherty Ltd,Legal,Small,IN,2025-02-01,Organic,43.16
+1019,Conner-Yu,Fintech,Mid-Market,IN,2025-08-01,Paid Search,458.09
+1020,"Stewart, Mann and Hoffman",Hospitality,Mid-Market,India,2025-01-01,Partner,335.36
+1021,"Buchanan, Walker and Chapman",Edtech,Mid-Market,USA,2025-09-01,Organic,21.73
+1022,Gray Ltd,Legal,Small,Canada,2025-03-01,Outbound Sales,697.01
+1023,"Phillips, Thompson and Smith",Edtech,Small,Australia,2025-04-01,Outbound Sales,475.31
+1024,"Fry, Myers and Gamble",Healthcare,Small,United States,2025-08-01,Referral,102.11
+1025,"Johnson, Guzman and Mccall",Manufacturing,Small,united states,2024-11-01,Paid Search,439.07
+1026,"Walker, Cunningham and Zuniga",Healthcare,Small,united states,2025-02-01,Outbound Sales,451.32
+1027,Rivera Inc,Retail,Mid-Market,India,2025-05-01,Outbound Sales,1075.28
+1028,Reed LLC,Media,Small,USA,2025-07-01,Referral,86.69
+1029,Fields Inc,Real Estate,Small,U.K.,2025-07-01,Organic,48.26
+1030,"Santiago, Daniel and Rogers",Edtech,Small,CA,2025-01-01,Organic,65.06
+1031,Baker and Sons,Manufacturing,Small,IN,2025-04-01,Paid Search,407.0
+1032,"Jones, Scott and Rodriguez",Retail,Small,IN,2025-02-01,Referral,99.59
+1033,Williams Group,Hospitality,Small,United States,2025-04-01,Outbound Sales,644.13
+1034,"Barnes, Jackson and Gutierrez",Legal,Small,Germany,2025-10-01,Partner,233.04
+1035,Bell-Bennett,Fintech,Mid-Market,United States,2025-08-01,Organic,28.49
+1036,Kramer-Lane,Fintech,Small,united states,2025-10-01,Partner,231.29
+1037,"Perez, Hayes and Lloyd",Media,Enterprise,United Kingdom,2025-05-01,Referral,152.52
+1038,Phillips LLC,Fintech,Small,UK,2025-01-01,Referral,168.12
+1039,Lynn-Jones,Retail,Mid-Market,US,2025-05-01,Referral,125.11
+1040,Barron and Sons,Logistics,Small,United States,2025-06-01,Organic,61.94
+1041,"Jones, Mcmahon and Spence",Manufacturing,Small,United States,2025-03-01,Paid Search,320.21
+1042,Wheeler-Austin,Real Estate,Mid-Market,AU,2025-01-01,Partner,236.62
+1043,Bush-Reynolds,Fintech,Mid-Market,DE,2025-01-01,Partner,269.24
+1044,"Martin, Preston and Moore",Logistics,Small,IN,2025-11-01,Referral,128.53
+1045,Rivera and Sons,Healthcare,Small,USA,2025-06-01,Referral,116.25
+1046,Terry-Bowen,Fintech,Mid-Market,US,2025-06-01,Referral,95.85
+1047,"Fernandez, Guerrero and Evans",Logistics,Small,united states,2025-01-01,Organic,50.98
+1048,Williams PLC,Retail,Mid-Market,India,2025-01-01,Partner,379.04
+1049,"Larsen, Hernandez and Ward",Logistics,Small,US,2025-07-01,Organic,44.92
+1050,Miller-Colon,Fintech,Mid-Market,India,2026-02-01,Partner,253.74
+1051,"Greene, Gonzalez and Johnson",Media,Enterprise,U.K.,2025-01-01,Organic,32.54
+1052,Little Inc,Legal,Small,united states,2025-03-01,Outbound Sales,1174.96
+1053,Anthony-Parker,Healthcare,Small,UK,2025-08-01,Partner,399.78
+1054,Ruiz-Jacobson,Healthcare,Small,CA,2025-08-01,Outbound Sales,1197.24
+1055,Davis-Stephens,Fintech,Small,USA,2024-11-01,Partner,272.03
+1056,Watson Group,Manufacturing,Mid-Market,IN,2025-05-01,Outbound Sales,1315.88
+1057,Lopez-Williams,Retail,Small,India,2025-03-01,Organic,49.15
+1058,Marshall-Perez,Media,Mid-Market,UK,2025-04-01,Referral,126.9
+1059,Elliott-Hernandez,Real Estate,Mid-Market,USA,2025-03-01,Organic,45.98
+1060,"Contreras, Miller and Cooper",Manufacturing,Small,AU,2025-12-01,Paid Search,462.24
+1061,"Gutierrez, Avila and Perez",Hospitality,Mid-Market,UK,2024-12-01,Partner,265.03
+1062,Randall PLC,Logistics,Small,United States,2025-12-01,Referral,74.61
+1063,Sheppard-Mcdaniel,Edtech,Small,AU,2024-12-01,Partner,284.06
+1064,Armstrong-Young,Healthcare,Mid-Market,United States,2025-06-01,Partner,388.42
+1065,Miller-Orr,Logistics,Mid-Market,united states,2025-02-01,Organic,51.55
+1066,"Johnson, Duncan and Black",Media,Mid-Market,USA,2024-10-01,Referral,101.22
+1067,"Byrd, Oliver and Martinez",Healthcare,Mid-Market,US,2025-04-01,Referral,142.41
+1068,Thompson-Joyce,Logistics,Small,U.K.,2025-09-01,Organic,67.48
+1069,Stokes and Sons,Hospitality,Small,US,2025-01-01,Referral,85.61
+1070,Henderson Ltd,Edtech,Mid-Market,India,2025-11-01,Referral,133.97
+1071,Harris-Carson,Real Estate,Small,Germany,2025-09-01,Organic,57.97
+1072,Flowers LLC,Real Estate,Small,USA,2025-08-01,Outbound Sales,1001.23
+1073,Bartlett-Sloan,Media,Small,US,2025-07-01,Referral,103.98
+1074,Miller PLC,Legal,Mid-Market,united states,2026-01-01,Organic,41.83
+1075,Arnold-Gates,Edtech,Small,Australia,2025-06-01,Organic,34.54
+1076,"Ellis, Marks and Buchanan",Legal,Small,India,2025-08-01,Partner,350.66
+1077,"Matthews, Harrington and Rodriguez",Legal,Small,IN,2025-05-01,Outbound Sales,668.09
+1078,Hernandez PLC,Healthcare,Small,US,2025-06-01,Outbound Sales,665.19
+1079,"Chang, Ayers and Buckley",Retail,Enterprise,United States,2026-01-01,Referral,118.52
+1080,"Chan, Floyd and Dillon",Hospitality,Small,USA,2025-08-01,Organic,56.11
+1081,Humphrey-Baker,Fintech,Small,USA,2024-12-01,Organic,66.98
+1082,"Washington, Lynch and Johnson",Legal,Small,IN,2025-01-01,Organic,45.57
+1083,Powell-Montgomery,Healthcare,Small,AU,2025-02-01,Partner,401.0
+1084,"Steele, Williams and Preston",Edtech,Small,U.K.,2025-08-01,Referral,82.16
+1085,Vaughn-Williams,Healthcare,Enterprise,IN,2024-11-01,Partner,391.33
+1086,Mccall-Prince,Real Estate,Enterprise,U.K.,2025-01-01,Referral,127.64
+1087,Morgan LLC,Real Estate,Mid-Market,United Kingdom,2026-04-01,Organic,47.73
+1088,Ramirez-Vasquez,Legal,Small,USA,2026-01-01,Referral,124.15
+1089,"Cohen, Compton and Perez",Real Estate,Mid-Market,united states,2025-05-01,Partner,309.91
+1090,Mccann-Ramos,Legal,Enterprise,United States,2025-03-01,Organic,48.57
+1091,Adams-Butler,Logistics,Small,UK,2025-07-01,Organic,68.12
+1092,"Davis, Alexander and Mcintyre",Media,Small,United States,2025-11-01,Referral,77.22
+1093,Figueroa-Malone,Retail,Mid-Market,US,2025-07-01,Organic,46.95
+1094,Nicholson-Robertson,Hospitality,Mid-Market,USA,2026-06-01,Organic,55.43
+1095,Jones Ltd,Retail,Enterprise,Australia,2026-03-01,Paid Search,405.62
+1096,"Powell, Deleon and Warren",Manufacturing,Small,united states,2026-03-01,Organic,53.99
+1097,"Johnson, Lee and Whitaker",Legal,Enterprise,Germany,2025-03-01,Paid Search,421.41
+1098,Wright Group,Healthcare,Enterprise,India,2025-07-01,Organic,41.71
+1099,Hull Ltd,Retail,Small,united states,2025-11-01,Organic,59.07
+1100,Hill Group,Media,Mid-Market,IN,2025-11-01,Referral,124.1
+1101,"Sanders, Leblanc and Maldonado",Fintech,Small,USA,2025-02-01,Referral,114.09
+1102,Watson PLC,Manufacturing,Small,IN,2026-05-01,Partner,254.19
+1103,Thompson-Harrell,Real Estate,Mid-Market,IN,2025-10-01,Partner,429.74
+1104,"Arnold, Cooper and Monroe",Media,Small,united states,2025-05-01,Organic,31.54
+1105,Curry-Barker,Legal,Small,United States,2025-12-01,Organic,39.05
+1106,Johnson-Williams,Manufacturing,Mid-Market,Canada,2025-01-01,Partner,386.13
+1107,"Chan, Lewis and Walker",Fintech,Small,United Kingdom,2025-04-01,Organic,35.36
+1108,Byrd LLC,Legal,Small,IN,2024-10-01,Referral,188.22
+1109,"Ortiz, Smith and Deleon",Edtech,Small,USA,2025-09-01,Partner,198.3
+1110,"Smith, Buck and Holland",Retail,Small,Germany,2025-07-01,Paid Search,496.64
+1111,"Owen, Walker and Franklin",Real Estate,Mid-Market,UK,2025-12-01,Paid Search,287.22
+1112,Marquez-Fletcher,Legal,Small,CA,2025-04-01,Paid Search,443.34
+1113,Coleman-Bennett,Edtech,Mid-Market,AU,2025-06-01,Partner,431.14
+1114,Stevens-Robinson,Real Estate,Small,USA,2025-06-01,Paid Search,406.04
+1115,Byrd-Holloway,Fintech,Small,US,2026-01-01,Outbound Sales,1398.5
+1116,Silva-Smith,Edtech,Mid-Market,US,2025-01-01,Organic,56.96
+1117,"Levy, Franco and Hoffman",Retail,Enterprise,Germany,2025-05-01,Organic,45.96
+1118,"Lynch, Evans and Rodriguez",Hospitality,Small,IN,2025-09-01,Paid Search,319.68
+1119,Rogers LLC,Edtech,Enterprise,United Kingdom,2026-04-01,Organic,38.45
+1120,"Nguyen, Hill and Douglas",Healthcare,Mid-Market,India,2025-02-01,Organic,52.54
+1121,"Evans, Hernandez and Cannon",Hospitality,Enterprise,United Kingdom,2025-10-01,Referral,84.78
+1122,Trujillo PLC,Real Estate,Small,United Kingdom,2025-04-01,Referral,96.34
+1123,Guerrero-Becker,Edtech,Small,United States,2025-03-01,Paid Search,306.97
+1124,"Johnson, Jimenez and Phillips",Media,Small,Germany,2025-08-01,Organic,34.41
+1125,Sullivan-Doyle,Edtech,Small,IN,2025-10-01,Organic,31.3
+1126,"Erickson, Armstrong and Lee",Retail,Enterprise,Germany,2025-10-01,Paid Search,557.94
+1127,"Reeves, Parks and Little",Legal,Small,Germany,2025-04-01,Paid Search,505.13
+1128,Knox-Powers,Edtech,Enterprise,DE,2025-10-01,Organic,56.85
+1129,"Evans, Jackson and Sandoval",Hospitality,Small,US,2024-11-01,Paid Search,660.72
+1130,"White, Davis and Anderson",Edtech,Small,US,2026-03-01,Organic,62.23
+1131,Hardy-Hansen,Fintech,Small,AU,2025-07-01,Referral,59.01
+1132,Arroyo LLC,Legal,Mid-Market,U.K.,2024-12-01,Paid Search,687.64
+1133,"Davis, Kelly and Garner",Media,Mid-Market,USA,2025-05-01,Referral,124.04
+1134,Fisher-Eaton,Logistics,Small,CA,2025-01-01,Paid Search,436.67
+1135,Green-Carter,Legal,Mid-Market,United States,2025-07-01,Partner,67.52
+1136,Ruiz Ltd,Media,Small,India,2025-01-01,Paid Search,464.47
+1137,"Carpenter, Oliver and Kennedy",Retail,Small,DE,2025-05-01,Partner,343.85
+1138,Mason Ltd,Media,Small,US,2025-09-01,Referral,108.89
+1139,Moreno-Gutierrez,Media,Enterprise,US,2025-10-01,Referral,143.44
+1140,Taylor and Sons,Fintech,Small,DE,2025-01-01,Referral,91.01
+1141,Ortiz-Hudson,Media,Small,US,2025-05-01,Referral,107.87
+1142,Thomas-Huffman,Legal,Enterprise,Australia,2025-11-01,Paid Search,479.86
+1143,Maxwell Group,Edtech,Small,united states,2025-06-01,Partner,54.37
+1144,Welch-Thompson,Logistics,Small,Germany,2025-11-01,Paid Search,357.98
+1145,"Brown, Hayes and Clark",Real Estate,Small,India,2025-06-01,Organic,49.16
+1146,Johnston and Sons,Legal,Small,United States,2025-01-01,Outbound Sales,1227.3
+1147,Glover-Chan,Media,Small,IN,2025-02-01,Paid Search,444.16
+1148,Mendez Ltd,Media,Enterprise,USA,2025-06-01,Paid Search,434.66
+1149,Powell-Sanford,Logistics,Small,USA,2025-04-01,Organic,69.78
+1150,Smith-Ferguson,Manufacturing,Mid-Market,USA,2025-09-01,Paid Search,421.03
+1151,"Watson, Smith and Morris",Real Estate,Enterprise,India,2025-04-01,Organic,45.56
+1152,"Lee, Rhodes and Sims",Healthcare,Enterprise,UK,2025-04-01,Paid Search,496.67
+1153,Perez LLC,Retail,Small,USA,2025-01-01,Paid Search,526.52
+1154,Anderson-Reyes,Media,Enterprise,UK,2025-03-01,Referral,114.03
+1155,"Torres, Brown and Williams",Hospitality,Small,U.K.,2025-03-01,Organic,50.63
+1156,Bryant-Meyer,Healthcare,Mid-Market,United States,2025-01-01,Paid Search,617.6
+1157,"Morgan, Barron and Cowan",Hospitality,Enterprise,USA,2025-06-01,Organic,47.52
+1158,Ferrell-Henry,Real Estate,Small,Germany,2025-08-01,Paid Search,350.79
+1159,Martin Group,Manufacturing,Small,Australia,2025-01-01,Partner,303.54
+1160,Perez Ltd,Retail,Small,AU,2025-07-01,Referral,81.65
+1161,Clark Inc,Edtech,Mid-Market,USA,2024-11-01,Organic,41.54
+1162,"Wagner, Martinez and Dawson",Real Estate,Small,United States,2025-01-01,Organic,55.19
+1163,Brooks Ltd,Hospitality,Mid-Market,India,2025-03-01,Paid Search,389.9
+1164,Wise-Dean,Media,Small,India,2025-06-01,Referral,124.53
+1165,"Vang, Stanley and Valdez",Legal,Enterprise,USA,2025-02-01,Referral,110.54
+1166,Williams Inc,Logistics,Small,DE,2024-10-01,Partner,282.14
+1167,Wallace-Martinez,Real Estate,Enterprise,united states,2025-01-01,Referral,156.18
+1168,Wells-Hernandez,Logistics,Mid-Market,US,2025-08-01,Organic,57.61
+1169,"Jennings, Smith and Fisher",Manufacturing,Mid-Market,US,2025-02-01,Referral,142.49
+1170,Bates LLC,Real Estate,Small,AU,2024-12-01,Organic,47.83
+1171,"Obrien, Taylor and Rivas",Real Estate,Small,United States,2025-04-01,Paid Search,421.41
+1172,Hunt PLC,Edtech,Small,DE,2025-10-01,Organic,37.92
+1173,Campbell Inc,Manufacturing,Small,US,2025-04-01,Partner,232.39
+1174,Gonzalez-Gonzalez,Retail,Enterprise,IN,2025-01-01,Organic,57.54
+1175,Decker-Dudley,Fintech,Small,USA,2025-10-01,Referral,123.38
+1176,Warner-Phillips,Logistics,Mid-Market,Germany,2025-04-01,Referral,145.7
+1177,Kelley and Sons,Logistics,Mid-Market,AU,2025-12-01,Outbound Sales,922.03
+1178,"Fitzpatrick, Rivera and Smith",Edtech,Mid-Market,India,2025-10-01,Organic,38.76
+1179,"Davis, Rodriguez and Andrews",Edtech,Small,US,2025-09-01,Paid Search,393.51
+1180,Hernandez-Davis,Hospitality,Mid-Market,IN,2025-04-01,Referral,89.78
+1181,"Jones, Cummings and Conway",Real Estate,Enterprise,USA,2025-11-01,Organic,47.7
+1182,"Hall, Hinton and Phillips",Logistics,Small,IN,2025-11-01,Outbound Sales,942.35
+1183,Williams-Li,Real Estate,Mid-Market,IN,2025-03-01,Paid Search,698.12
+1184,Phelps LLC,Fintech,Small,united states,2025-03-01,Partner,389.95
+1185,"Edwards, Rodgers and Davis",Fintech,Mid-Market,IN,2025-11-01,Partner,231.21
+1186,Smith and Sons,Legal,Small,India,2025-12-01,Outbound Sales,1050.71
+1187,"Holland, Murphy and Kline",Fintech,Enterprise,united states,2025-01-01,Outbound Sales,1080.17
+1188,"Adams, Quinn and Watson",Legal,Small,United States,2025-04-01,Referral,108.23
+1189,White-Morales,Healthcare,Small,India,2025-10-01,Paid Search,387.68
+1190,Nelson-Cruz,Retail,Mid-Market,United States,2025-04-01,Paid Search,597.23
+1191,Marsh-Banks,Fintech,Enterprise,IN,2025-04-01,Referral,92.21
+1192,Wilson Ltd,Healthcare,Small,India,2025-09-01,Referral,91.2
+1193,"Brown, Dunlap and Moore",Retail,Small,India,2025-07-01,Paid Search,374.77
+1194,Pruitt-Webb,Legal,Small,India,2026-02-01,Paid Search,424.73
+1195,"Gregory, White and James",Manufacturing,Mid-Market,UK,2024-11-01,Paid Search,266.56
+1196,Carr-Huffman,Hospitality,Small,United States,2025-02-01,Paid Search,456.22
+1197,"Mcpherson, Anderson and Knapp",Real Estate,Small,IN,2025-03-01,Referral,110.66
+1198,Clay Group,Retail,Mid-Market,Canada,2025-03-01,Referral,156.83
+1199,Brown Ltd,Retail,Enterprise,IN,2024-10-01,Organic,59.84
+1200,Smith-Oneill,Legal,Mid-Market,India,2025-06-01,Outbound Sales,929.15
+1201,"Davis, Rodriguez and Andrews",Edtech,Small,US,2025-09-01,Paid Search,393.51
+1202,Gibson-Freeman,Real Estate,Small,IN,2026-04-01,Outbound Sales,519.15
+1203,"Patterson, Smith and Jones",Media,Small,united states,2025-11-01,Paid Search,485.15
+1204,King-York,Legal,Small,CA,2025-11-01,Partner,414.85
+1205,Lee-Davis,Hospitality,Small,IN,2025-06-01,Referral,120.45
+1206,"Evans, Hernandez and Cannon",Hospitality,Enterprise,United Kingdom,2025-10-01,Referral,84.78
+1207,"Ramsey, Whitney and Coffey",Media,Small,united states,2025-03-01,Referral,107.67
+1208,"Adkins, Wright and Murray",Real Estate,Mid-Market,UK,2026-01-01,Referral,92.57
+1209,Graham Group,Logistics,Small,India,2025-08-01,Paid Search,537.47
+1210,Werner-Carter,Manufacturing,Small,AU,2025-09-01,Referral,131.75
+1211,Ray PLC,Legal,Small,AU,2025-07-01,Paid Search,416.99
+1212,"Arroyo, Miller and Tucker",Edtech,Mid-Market,IN,2025-10-01,Referral,77.81
+1213,"Harris, Collins and Carney",Hospitality,Enterprise,US,2025-07-01,Referral,122.77
+1214,Gonzales Inc,Fintech,Small,United States,2025-05-01,Organic,60.35
+1215,Jones and Sons,Retail,Small,U.K.,2025-07-01,Referral,93.71
+1216,Meadows PLC,Legal,Small,united states,2025-07-01,Referral,157.4
+1217,"Griffin, Davies and Mitchell",Hospitality,Small,United States,2024-11-01,Paid Search,236.87
+1218,Hawkins-Hunt,Legal,Mid-Market,UK,2026-02-01,Partner,315.73

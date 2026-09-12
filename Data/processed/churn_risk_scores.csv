@@ -1,0 +1,633 @@
+customer_id,industry,company_size,plan_tier,mrr_value,churned,churn_risk_score,risk_tier
+438,Retail,Small,Basic,56.3,0,0.7630755999208082,High
+310,Edtech,Small,Basic,55.23,0,0.7300223120017871,High
+777,Media,Small,Basic,54.91,0,0.6559084008620485,High
+656,Manufacturing,Mid-Market,Basic,63.66,0,0.6425740268361456,High
+663,Logistics,Small,Basic,54.69,0,0.6367594456720874,High
+43,Logistics,Small,Basic,44.61,0,0.6293721674308782,High
+857,Healthcare,Mid-Market,Pro,257.98,0,0.6039237676823614,High
+325,Manufacturing,Mid-Market,Basic,48.88,0,0.6025907587763939,High
+846,Manufacturing,Mid-Market,Basic,52.22,0,0.6019403245690538,High
+97,Legal,Mid-Market,Basic,50.87,0,0.5978328892247531,High
+1071,Real Estate,Small,Basic,43.18,0,0.5971368917565598,High
+541,Logistics,Mid-Market,Basic,45.64,0,0.5960318310076306,High
+47,Fintech,Enterprise,Basic,48.65,0,0.5926864837429009,High
+649,Retail,Small,Basic,56.91,0,0.580776165867178,High
+397,Legal,Small,Pro,244.79,0,0.5741280789098536,High
+958,Media,Small,Pro,222.47,0,0.5696248995532922,High
+409,Hospitality,Small,Basic,47.97,0,0.5690332858875546,High
+1077,Legal,Small,Pro,213.56,0,0.5627114522871934,High
+303,Logistics,Mid-Market,Basic,56.57,0,0.5608994883539296,High
+1109,Edtech,Small,Pro,224.9,0,0.5581509180666894,High
+885,Healthcare,Small,Basic,46.82,0,0.5539296298594242,High
+703,Logistics,Enterprise,Basic,43.04,0,0.5535195785643059,High
+1111,Real Estate,Mid-Market,Basic,44.09,0,0.5529275981534593,High
+578,Logistics,Enterprise,Basic,43.67,0,0.5498752114931795,High
+792,Edtech,Mid-Market,Basic,45.33,0,0.5488373232406141,High
+927,Logistics,Small,Basic,63.46,0,0.5482030574661055,High
+1130,Edtech,Small,Basic,48.99,0,0.5364825136138022,High
+933,Manufacturing,Mid-Market,Basic,45.17,0,0.5354850869671066,High
+600,Hospitality,Small,Basic,59.84,0,0.5342283368140653,High
+261,Edtech,Mid-Market,Pro,238.69,0,0.5303314421264349,High
+234,Edtech,Mid-Market,Pro,185.17,0,0.5267259032457916,High
+766,Legal,Mid-Market,Pro,195.2,0,0.526005033703706,High
+1135,Legal,Mid-Market,Basic,41.88,0,0.5185142354162018,High
+558,Healthcare,Mid-Market,Basic,57.09,0,0.5175534254435945,High
+1125,Edtech,Small,Pro,200.12,0,0.5144573003747422,High
+150,Fintech,Enterprise,Basic,57.48,0,0.5144373163515793,High
+960,Fintech,Small,Basic,42.67,0,0.5129648901149967,High
+662,Retail,Mid-Market,Pro,206.05,0,0.5092452834761123,High
+89,Edtech,Enterprise,Basic,47.61,0,0.5084384185231655,High
+173,Fintech,Small,Basic,44.65,0,0.49786393783241845,High
+930,Logistics,Enterprise,Pro,239.52,0,0.4908396021270405,High
+441,Legal,Mid-Market,Pro,206.84,0,0.48702331569600954,High
+277,Real Estate,Small,Basic,42.79,0,0.48219522611381155,High
+249,Real Estate,Mid-Market,Basic,51.06,0,0.478510875690741,High
+1186,Legal,Small,Basic,51.04,0,0.47000727425843136,High
+556,Hospitality,Small,Basic,49.95,0,0.4699964461246795,High
+29,Healthcare,Small,Pro,238.24,0,0.46779141418973635,High
+978,Hospitality,Small,Basic,41.67,0,0.4667680969088669,High
+54,Healthcare,Small,Basic,41.68,0,0.46511744221131757,High
+886,Media,Enterprise,Basic,52.16,0,0.46425887368378305,High
+198,Legal,Small,Basic,47.16,0,0.4633259232014332,High
+494,Fintech,Enterprise,Basic,56.88,0,0.46308370084083,High
+360,Logistics,Small,Basic,48.17,0,0.45944796075586614,High
+1056,Manufacturing,Mid-Market,Basic,49.0,0,0.4578571307350029,High
+479,Manufacturing,Mid-Market,Basic,58.16,0,0.4554169926895791,High
+163,Logistics,Enterprise,Enterprise,1141.15,0,0.4458952137638097,High
+93,Retail,Mid-Market,Basic,46.17,0,0.4449492695938173,High
+1046,Fintech,Mid-Market,Basic,59.37,0,0.44473040227133975,High
+850,Fintech,Small,Basic,42.9,0,0.44340816841783415,High
+476,Manufacturing,Small,Basic,46.79,0,0.44069698482932856,High
+100,Hospitality,Small,Basic,44.69,0,0.4381602838216507,High
+276,Logistics,Mid-Market,Basic,54.5,0,0.4372921743627591,High
+761,Media,Small,Basic,56.51,0,0.4342381020582255,High
+805,Retail,Small,Pro,257.33,0,0.43411493752868996,High
+1091,Logistics,Small,Basic,43.42,0,0.4311238234143469,High
+945,Logistics,Small,Basic,49.66,0,0.42625088822293844,High
+1116,Edtech,Mid-Market,Basic,63.08,0,0.42343909821126247,High
+840,Fintech,Mid-Market,Basic,56.4,0,0.4203347119261173,High
+11,Edtech,Small,Basic,47.86,0,0.4202018055095185,High
+374,Fintech,Small,Basic,57.54,0,0.42012179066042216,High
+837,Healthcare,Small,Basic,63.51,0,0.41856769670148514,High
+214,Legal,Mid-Market,Enterprise,1004.52,0,0.41844292589443305,High
+602,Logistics,Small,Basic,54.72,0,0.4179506699839054,High
+106,Real Estate,Mid-Market,Basic,60.42,0,0.4152901707424749,High
+1103,Real Estate,Mid-Market,Basic,55.58,0,0.4144872714564856,High
+139,Hospitality,Small,Basic,62.52,0,0.41387464140864727,High
+1078,Healthcare,Small,Basic,59.35,0,0.41373673144953993,High
+1160,Retail,Small,Basic,60.93,0,0.4123693739763026,High
+77,Hospitality,Enterprise,Pro,254.14,0,0.41197322025787597,High
+45,Edtech,Mid-Market,Basic,55.38,0,0.4115481864983705,High
+981,Retail,Small,Basic,62.47,0,0.4104324234813967,High
+379,Legal,Small,Basic,46.1,0,0.4100019919477782,High
+380,Real Estate,Small,Pro,184.71,0,0.4087929262627311,High
+446,Legal,Small,Basic,59.58,0,0.40849493880151594,High
+72,Hospitality,Small,Basic,48.48,0,0.40845575375980003,High
+605,Healthcare,Enterprise,Pro,194.71,0,0.40321441158180965,High
+50,Hospitality,Enterprise,Basic,56.97,0,0.4028092119476827,High
+1023,Edtech,Small,Pro,196.35,0,0.4006238405490539,High
+676,Hospitality,Mid-Market,Basic,61.92,0,0.3983921265207004,High
+536,Media,Small,Basic,47.4,0,0.3966420731292985,High
+598,Real Estate,Small,Basic,48.37,0,0.3924827805536451,High
+786,Healthcare,Small,Basic,62.5,0,0.3919808043151729,High
+318,Healthcare,Small,Basic,45.64,0,0.3859227111694301,High
+909,Retail,Mid-Market,Basic,53.62,0,0.3803598628861451,High
+521,Fintech,Enterprise,Basic,49.18,0,0.3784190965174419,High
+204,Manufacturing,Mid-Market,Pro,227.11,0,0.37653383450666084,High
+1114,Real Estate,Small,Basic,42.95,0,0.37640407670888737,High
+39,Legal,Small,Basic,56.94,0,0.3757990215803071,High
+361,Legal,Small,Basic,57.07,0,0.3746757982510485,High
+620,Hospitality,Mid-Market,Basic,62.66,0,0.3721269430236257,High
+544,Retail,Mid-Market,Basic,58.7,0,0.37091373417543666,High
+152,Manufacturing,Small,Pro,255.09,0,0.36846422408247764,High
+640,Media,Small,Basic,47.41,0,0.3623452924126973,High
+297,Edtech,Small,Enterprise,1029.55,0,0.355655770057589,High
+272,Media,Enterprise,Basic,56.94,0,0.3551899931483453,High
+1094,Hospitality,Mid-Market,Pro,186.79,0,0.35492111706251367,High
+796,Legal,Small,Basic,44.3,0,0.3545809419385075,High
+739,Retail,Mid-Market,Basic,49.47,0,0.35414364161167955,High
+1142,Legal,Enterprise,Basic,51.73,0,0.3504334739221665,High
+292,Real Estate,Small,Basic,43.43,0,0.34677217159639284,High
+807,Retail,Enterprise,Basic,53.17,0,0.3443680105501826,High
+1195,Manufacturing,Mid-Market,Basic,42.24,0,0.343651299997872,High
+1052,Legal,Small,Basic,57.08,0,0.3431379270059565,High
+177,Manufacturing,Small,Basic,62.82,0,0.34280429333195744,High
+320,Fintech,Small,Basic,56.33,0,0.34037047118427044,High
+593,Legal,Mid-Market,Basic,56.97,0,0.33925243342032996,High
+423,Logistics,Small,Basic,54.07,0,0.3388011273892112,High
+1189,Healthcare,Small,Basic,51.44,0,0.3385320561798457,High
+279,Media,Small,Basic,42.18,0,0.33815451733792373,High
+1137,Retail,Small,Basic,53.17,0,0.3368675937695651,High
+1088,Legal,Small,Basic,60.64,0,0.33624033495195205,High
+919,Real Estate,Mid-Market,Basic,47.51,0,0.3338760275237212,High
+1172,Edtech,Small,Pro,228.46,0,0.33378956796638903,High
+932,Edtech,Small,Basic,53.28,0,0.3309486406427277,High
+873,Manufacturing,Mid-Market,Pro,199.9,0,0.3306606759758232,High
+398,Fintech,Enterprise,Basic,60.61,0,0.3293172219444284,High
+1151,Real Estate,Enterprise,Basic,60.72,0,0.3292259908570362,High
+1124,Media,Small,Enterprise,968.83,0,0.3289977344571441,Medium
+253,Edtech,Small,Basic,52.51,0,0.3287710665147635,Medium
+230,Healthcare,Small,Basic,53.17,0,0.3256817102841757,Medium
+2,Edtech,Mid-Market,Basic,61.83,0,0.324454380978972,Medium
+84,Edtech,Enterprise,Basic,50.94,0,0.3222846522068512,Medium
+881,Manufacturing,Mid-Market,Basic,45.85,0,0.3210439378218751,Medium
+44,Edtech,Mid-Market,Pro,222.02,0,0.3206115464268976,Medium
+622,Manufacturing,Small,Basic,56.07,0,0.3198387397795852,Medium
+560,Logistics,Mid-Market,Pro,222.71,0,0.31733754483881804,Medium
+934,Edtech,Small,Basic,53.27,0,0.31365982064572123,Medium
+308,Media,Mid-Market,Enterprise,987.41,0,0.31322089419704335,Medium
+1177,Logistics,Mid-Market,Pro,172.47,0,0.3131403153764756,Medium
+505,Manufacturing,Mid-Market,Basic,55.32,0,0.31275193763181613,Medium
+10,Legal,Mid-Market,Basic,53.39,0,0.3126435073693372,Medium
+174,Manufacturing,Small,Basic,53.36,0,0.30821348652419744,Medium
+955,Legal,Small,Basic,43.78,0,0.3080968769210867,Medium
+331,Fintech,Mid-Market,Pro,242.2,0,0.3054274502350431,Medium
+108,Media,Mid-Market,Basic,54.15,0,0.304986229269727,Medium
+192,Logistics,Mid-Market,Basic,48.24,0,0.30485522943638704,Medium
+720,Legal,Small,Basic,62.9,0,0.3025332276494774,Medium
+1196,Hospitality,Small,Basic,46.79,0,0.30236977794388614,Medium
+382,Logistics,Small,Basic,46.39,0,0.3007617087358293,Medium
+437,Real Estate,Mid-Market,Basic,48.84,0,0.30054164397694066,Medium
+369,Fintech,Mid-Market,Enterprise,922.49,0,0.29958142224770884,Medium
+321,Fintech,Small,Basic,61.62,0,0.2989484543478518,Medium
+811,Fintech,Small,Pro,181.12,0,0.2980339688471952,Medium
+741,Edtech,Small,Pro,241.28,0,0.2969989561947362,Medium
+271,Manufacturing,Mid-Market,Basic,44.28,0,0.2968208481771563,Medium
+660,Retail,Small,Basic,59.55,0,0.29496241323613515,Medium
+709,Logistics,Small,Pro,195.39,0,0.2942061565860885,Medium
+526,Logistics,Enterprise,Pro,257.47,0,0.2915860336597032,Medium
+111,Legal,Small,Basic,41.78,0,0.29154674671675995,Medium
+130,Manufacturing,Small,Basic,45.9,0,0.2902453140373568,Medium
+869,Healthcare,Small,Enterprise,949.33,0,0.2901107055558303,Medium
+443,Healthcare,Mid-Market,Basic,61.06,0,0.2896377129303042,Medium
+467,Media,Mid-Market,Basic,60.73,0,0.2882960644125354,Medium
+527,Media,Mid-Market,Pro,185.77,0,0.28606112052823635,Medium
+834,Hospitality,Small,Enterprise,1100.26,0,0.28569503330091783,Medium
+723,Media,Small,Basic,50.08,0,0.28244376279378886,Medium
+284,Fintech,Small,Pro,252.4,0,0.2820041102621707,Medium
+348,Manufacturing,Small,Basic,42.08,0,0.2812085277988221,Medium
+643,Legal,Mid-Market,Basic,48.13,0,0.2809901690224786,Medium
+451,Hospitality,Mid-Market,Enterprise,1004.09,0,0.28020978959050863,Medium
+377,Healthcare,Small,Pro,232.38,0,0.28012545878124806,Medium
+674,Healthcare,Mid-Market,Pro,179.77,0,0.2800416582370009,Medium
+1010,Media,Enterprise,Basic,54.67,0,0.27999723780205693,Medium
+585,Logistics,Mid-Market,Basic,48.69,0,0.27834302553691276,Medium
+1080,Hospitality,Small,Enterprise,1008.66,0,0.27816316123981966,Medium
+1153,Retail,Small,Basic,54.68,0,0.2777584048044031,Medium
+298,Hospitality,Small,Pro,244.62,0,0.2746402954041489,Medium
+170,Real Estate,Small,Pro,228.38,0,0.2741130833274813,Medium
+205,Media,Small,Basic,58.21,0,0.27335343438072274,Medium
+1141,Media,Small,Basic,52.43,0,0.26849251523070283,Medium
+75,Logistics,Enterprise,Pro,248.33,0,0.26796094400097553,Medium
+880,Real Estate,Small,Pro,200.68,0,0.2678105556203663,Medium
+7,Healthcare,Small,Basic,51.98,0,0.26689216386148135,Medium
+874,Healthcare,Small,Pro,218.24,0,0.26491331446104494,Medium
+635,Retail,Small,Pro,172.03,0,0.2629600280795298,Medium
+495,Healthcare,Small,Basic,61.65,0,0.2609963162119972,Medium
+378,Hospitality,Mid-Market,Pro,251.34,0,0.25818863981832146,Medium
+692,Fintech,Small,Basic,44.8,0,0.257923074226351,Medium
+712,Real Estate,Mid-Market,Basic,62.73,0,0.2567101677002191,Medium
+99,Edtech,Mid-Market,Pro,245.54,0,0.2561331686942704,Medium
+188,Healthcare,Mid-Market,Basic,61.93,0,0.2546501417868051,Medium
+315,Legal,Small,Basic,42.04,0,0.2540916959386743,Medium
+405,Logistics,Mid-Market,Basic,42.63,0,0.25323915282045045,Medium
+1128,Edtech,Enterprise,Basic,60.16,0,0.25311359228857555,Medium
+698,Hospitality,Small,Pro,182.76,0,0.2513907902151462,Medium
+194,Edtech,Mid-Market,Basic,63.51,0,0.2511582893423943,Medium
+465,Retail,Mid-Market,Basic,49.81,0,0.25088638695720195,Medium
+1119,Edtech,Enterprise,Pro,177.17,0,0.2488186760929894,Medium
+661,Media,Mid-Market,Pro,169.19,0,0.2479060236498575,Medium
+112,Fintech,Small,Basic,50.27,0,0.24536076527411324,Medium
+842,Retail,Mid-Market,Pro,209.44,0,0.24523608466060964,Medium
+627,Edtech,Small,Pro,193.67,0,0.2444028902873373,Medium
+304,Fintech,Mid-Market,Pro,241.98,0,0.2431789645585955,Medium
+582,Retail,Enterprise,Enterprise,1164.51,0,0.24069831969817998,Medium
+645,Real Estate,Small,Pro,230.99,0,0.24055708425042496,Medium
+206,Media,Enterprise,Pro,205.5,0,0.23776031294263958,Medium
+283,Healthcare,Mid-Market,Pro,176.78,0,0.23638096987569143,Medium
+1049,Logistics,Small,Basic,61.17,0,0.23600543493364246,Medium
+637,Manufacturing,Small,Basic,47.86,0,0.23527970724162917,Medium
+613,Logistics,Small,Basic,59.61,0,0.23417961968198214,Medium
+529,Legal,Enterprise,Basic,50.88,0,0.2333089817551864,Medium
+281,Hospitality,Small,Pro,200.73,0,0.23290759339273,Medium
+596,Media,Small,Basic,57.34,0,0.23160916329059125,Medium
+347,Media,Mid-Market,Pro,170.32,0,0.23019630540420025,Medium
+257,Logistics,Small,Basic,52.05,0,0.23002609642022132,Medium
+966,Fintech,Mid-Market,Basic,58.46,0,0.22952529526084348,Medium
+553,Legal,Mid-Market,Basic,51.26,0,0.22935010929131092,Medium
+418,Real Estate,Enterprise,Basic,63.58,0,0.22780201342668766,Medium
+748,Hospitality,Mid-Market,Pro,180.78,0,0.22730181438176114,Medium
+87,Legal,Small,Basic,62.34,0,0.22599510863638392,Medium
+861,Healthcare,Mid-Market,Pro,204.24,0,0.22591791443179082,Medium
+764,Logistics,Mid-Market,Pro,254.57,0,0.22535417929409693,Medium
+740,Logistics,Small,Pro,233.49,0,0.22317849752894556,Medium
+1100,Media,Mid-Market,Pro,241.19,0,0.22226607035625742,Medium
+48,Fintech,Small,Pro,207.07,0,0.22157228641762935,Medium
+60,Legal,Small,Pro,178.53,0,0.22147239109335384,Medium
+632,Hospitality,Mid-Market,Basic,62.51,0,0.221444735617446,Medium
+993,Legal,Enterprise,Basic,54.11,0,0.22014887508187486,Medium
+1070,Edtech,Mid-Market,Enterprise,1099.0,0,0.21841969726162608,Medium
+664,Fintech,Enterprise,Basic,52.43,0,0.2156980314283848,Medium
+856,Manufacturing,Small,Basic,44.28,0,0.21497303715352936,Medium
+798,Media,Mid-Market,Pro,255.75,0,0.21180547947905584,Medium
+12,Hospitality,Small,Enterprise,1023.57,0,0.21178572783923894,Medium
+401,Logistics,Mid-Market,Enterprise,885.93,0,0.21018800337699106,Medium
+682,Media,Small,Basic,47.3,0,0.2101269679001773,Medium
+393,Logistics,Enterprise,Basic,44.32,0,0.20960956099757017,Medium
+1185,Fintech,Mid-Market,Basic,53.15,0,0.20921550094089117,Medium
+653,Real Estate,Mid-Market,Basic,60.73,0,0.20802057036342655,Medium
+624,Hospitality,Small,Basic,55.83,0,0.20714210668703154,Medium
+386,Fintech,Mid-Market,Pro,188.58,0,0.20490227444504003,Medium
+211,Healthcare,Small,Pro,244.05,0,0.20465067077488025,Medium
+586,Fintech,Small,Pro,217.71,0,0.2044922361687669,Medium
+32,Manufacturing,Mid-Market,Basic,42.39,0,0.20181161552471452,Medium
+694,Logistics,Small,Basic,63.35,0,0.20176898130703763,Medium
+5,Hospitality,Mid-Market,Basic,46.08,0,0.20163998228293878,Medium
+166,Media,Small,Pro,217.82,0,0.20056184252751086,Medium
+619,Legal,Small,Enterprise,817.95,0,0.19960259589508514,Medium
+414,Legal,Mid-Market,Basic,62.4,0,0.19909953495809152,Medium
+944,Hospitality,Small,Pro,184.79,0,0.1981475885262352,Medium
+604,Real Estate,Enterprise,Basic,63.24,0,0.197560569813322,Medium
+568,Healthcare,Small,Basic,59.16,0,0.19717888049778914,Medium
+220,Hospitality,Small,Pro,182.57,0,0.19511860235108552,Medium
+871,Fintech,Small,Pro,229.44,0,0.1942931571930713,Medium
+1138,Media,Small,Enterprise,887.97,0,0.1939200578893332,Medium
+894,Legal,Small,Pro,256.33,0,0.19309752968975236,Medium
+952,Manufacturing,Enterprise,Basic,54.2,0,0.19269707353231985,Medium
+991,Hospitality,Small,Basic,55.31,0,0.1907227898796741,Medium
+1164,Media,Small,Basic,61.49,0,0.19033863040691906,Medium
+968,Manufacturing,Enterprise,Enterprise,908.76,0,0.1890904882589112,Medium
+1051,Media,Enterprise,Basic,59.39,0,0.18666843926725085,Medium
+469,Fintech,Enterprise,Enterprise,778.03,0,0.1865179157380067,Medium
+1150,Manufacturing,Mid-Market,Pro,254.57,0,0.18613801079548462,Medium
+935,Real Estate,Mid-Market,Pro,204.84,0,0.18589999031041177,Medium
+49,Legal,Mid-Market,Basic,41.73,0,0.1841928971266266,Medium
+717,Healthcare,Small,Basic,45.71,0,0.18412078034515073,Medium
+197,Manufacturing,Mid-Market,Pro,211.05,0,0.1836379588662732,Medium
+808,Healthcare,Mid-Market,Pro,232.7,0,0.18355535312580554,Medium
+848,Hospitality,Mid-Market,Basic,61.89,0,0.1831387489674298,Medium
+334,Logistics,Small,Basic,47.05,0,0.1824285317601045,Medium
+351,Healthcare,Small,Basic,53.98,0,0.1792636580563628,Medium
+342,Healthcare,Mid-Market,Basic,63.09,0,0.17899900622269077,Medium
+788,Fintech,Enterprise,Pro,171.25,0,0.17872332649395195,Medium
+273,Legal,Mid-Market,Basic,56.69,0,0.17825355832465975,Medium
+597,Healthcare,Small,Basic,46.45,0,0.1779375362377867,Medium
+333,Logistics,Mid-Market,Basic,59.25,0,0.1775418905178327,Medium
+1187,Fintech,Enterprise,Basic,54.76,0,0.17714663011266868,Medium
+507,Real Estate,Mid-Market,Pro,201.7,0,0.1751844231056294,Medium
+402,Real Estate,Small,Basic,46.59,0,0.1745482302265107,Medium
+1115,Fintech,Small,Basic,50.28,0,0.17280432258140888,Medium
+256,Real Estate,Mid-Market,Basic,52.7,0,0.17185153964153765,Medium
+8,Edtech,Small,Pro,192.82,0,0.17184730685432348,Medium
+727,Legal,Mid-Market,Pro,172.48,0,0.17133282174170403,Medium
+161,Hospitality,Small,Basic,62.27,0,0.1707521591980623,Medium
+323,Real Estate,Small,Basic,55.84,0,0.17039853076683692,Medium
+228,Fintech,Small,Basic,57.22,0,0.17032551969938686,Medium
+353,Legal,Mid-Market,Basic,52.78,0,0.16998270242684285,Medium
+364,Fintech,Mid-Market,Enterprise,786.52,0,0.1699482496317821,Medium
+345,Hospitality,Mid-Market,Basic,62.83,0,0.1691964797472086,Medium
+887,Legal,Enterprise,Pro,181.79,0,0.16870991198317614,Medium
+540,Real Estate,Small,Basic,43.14,0,0.1682810479004443,Medium
+954,Legal,Small,Basic,55.83,0,0.16585889117020736,Medium
+14,Media,Small,Basic,56.83,0,0.16556118510846737,Medium
+992,Retail,Mid-Market,Basic,47.65,0,0.16391309029515008,Medium
+821,Legal,Small,Basic,50.41,0,0.16208676042378872,Medium
+759,Hospitality,Small,Basic,45.28,0,0.16193907713869857,Medium
+167,Retail,Small,Pro,180.27,0,0.1608934509959631,Medium
+951,Hospitality,Mid-Market,Basic,56.98,0,0.16077175484263953,Medium
+782,Retail,Small,Basic,56.33,0,0.1606938953184989,Medium
+460,Legal,Small,Pro,222.93,0,0.159007455922573,Medium
+433,Real Estate,Small,Basic,59.47,0,0.1575277857123842,Medium
+654,Media,Small,Pro,215.47,0,0.1567866882221821,Medium
+123,Media,Mid-Market,Enterprise,882.96,0,0.15647784667028705,Medium
+823,Edtech,Mid-Market,Pro,234.19,0,0.15421893720069896,Medium
+79,Healthcare,Small,Basic,46.63,0,0.15416506556202228,Medium
+1099,Retail,Small,Basic,62.26,0,0.1530370803588901,Medium
+778,Manufacturing,Small,Enterprise,801.38,0,0.15302781600644075,Medium
+55,Healthcare,Small,Basic,53.7,0,0.15288619654287042,Medium
+1090,Legal,Enterprise,Basic,51.17,0,0.15213158971974935,Medium
+595,Retail,Mid-Market,Basic,50.74,0,0.15071907827790595,Medium
+419,Media,Small,Basic,54.15,0,0.14855910959851207,Medium
+158,Logistics,Mid-Market,Basic,56.85,0,0.14796043806339015,Medium
+453,Media,Small,Basic,53.88,0,0.1471389106804977,Medium
+497,Edtech,Small,Pro,244.67,0,0.1454931159742395,Medium
+1045,Healthcare,Small,Pro,172.27,0,0.14309999761223938,Medium
+201,Hospitality,Mid-Market,Pro,238.02,0,0.1425050109317081,Medium
+711,Real Estate,Mid-Market,Basic,53.55,0,0.14184942423346927,Medium
+809,Edtech,Mid-Market,Pro,251.18,0,0.14117178419495877,Low
+232,Edtech,Small,Pro,252.01,0,0.141055812126519,Low
+925,Manufacturing,Enterprise,Pro,213.56,0,0.1382354533988947,Low
+753,Edtech,Enterprise,Pro,258.56,0,0.13803540167828326,Low
+478,Legal,Small,Enterprise,800.6,0,0.13770522270524596,Low
+371,Healthcare,Small,Pro,235.53,0,0.1376195475005199,Low
+254,Legal,Mid-Market,Pro,207.95,0,0.1369269981091338,Low
+1054,Healthcare,Small,Pro,250.3,0,0.13615938871445415,Low
+78,Healthcare,Small,Pro,233.77,0,0.13572796815744104,Low
+826,Healthcare,Small,Pro,226.53,0,0.1357163154577104,Low
+390,Hospitality,Mid-Market,Basic,61.98,0,0.13534718215749894,Low
+859,Media,Mid-Market,Basic,51.86,0,0.13530896311092536,Low
+831,Manufacturing,Small,Basic,47.74,0,0.13516716961240913,Low
+985,Retail,Small,Basic,60.45,0,0.1348240857921257,Low
+684,Hospitality,Small,Pro,196.19,0,0.13446334649794883,Low
+608,Edtech,Mid-Market,Pro,223.33,0,0.13384563901747926,Low
+1107,Fintech,Small,Basic,51.68,0,0.13290851940929047,Low
+287,Manufacturing,Small,Basic,48.92,0,0.13236690145199762,Low
+470,Healthcare,Small,Basic,53.17,0,0.13226685244648378,Low
+697,Real Estate,Small,Pro,235.62,0,0.13209076275961695,Low
+890,Healthcare,Mid-Market,Pro,239.78,0,0.13204421827638985,Low
+499,Edtech,Small,Enterprise,1077.27,0,0.1317567599844665,Low
+634,Hospitality,Small,Basic,58.86,0,0.13035258726961726,Low
+1117,Retail,Enterprise,Basic,60.06,0,0.12946913834339516,Low
+190,Edtech,Enterprise,Pro,245.53,0,0.12917983170531122,Low
+71,Fintech,Small,Enterprise,962.05,0,0.12868153363703108,Low
+290,Logistics,Mid-Market,Basic,57.62,0,0.12805762756717465,Low
+533,Manufacturing,Mid-Market,Pro,194.61,0,0.12804019791981253,Low
+1155,Hospitality,Small,Pro,171.48,0,0.1278860528608162,Low
+588,Healthcare,Mid-Market,Pro,214.29,0,0.1277034059109998,Low
+667,Real Estate,Mid-Market,Enterprise,1155.11,0,0.12750785992320615,Low
+794,Healthcare,Enterprise,Pro,198.06,0,0.12718983391291666,Low
+849,Real Estate,Mid-Market,Basic,57.34,0,0.1268138728603741,Low
+416,Hospitality,Small,Pro,189.84,0,0.1258640341075037,Low
+1001,Edtech,Mid-Market,Basic,47.01,0,0.1252660563863815,Low
+337,Healthcare,Mid-Market,Enterprise,837.92,0,0.12482017676199374,Low
+855,Real Estate,Small,Pro,227.9,0,0.12410242536388383,Low
+1106,Manufacturing,Mid-Market,Pro,179.1,0,0.12404841555892379,Low
+591,Real Estate,Small,Basic,49.33,0,0.12354963176796172,Low
+498,Hospitality,Small,Basic,58.27,0,0.12337630999461618,Low
+95,Healthcare,Mid-Market,Basic,50.85,0,0.12280314758940657,Low
+701,Real Estate,Small,Pro,243.06,0,0.12255349756778586,Low
+1192,Healthcare,Small,Pro,172.93,0,0.12140154908361711,Low
+752,Media,Small,Basic,47.89,0,0.12076843208215383,Low
+773,Manufacturing,Enterprise,Basic,60.9,0,0.11842232427748194,Low
+509,Real Estate,Enterprise,Basic,62.46,0,0.11798785491071233,Low
+895,Healthcare,Small,Basic,43.79,0,0.11697211253602637,Low
+1121,Hospitality,Enterprise,Pro,222.66,0,0.11657835168621233,Low
+1181,Real Estate,Enterprise,Pro,184.46,0,0.11429744477633072,Low
+24,Legal,Small,Pro,246.26,0,0.11356585254999847,Low
+728,Logistics,Mid-Market,Basic,61.27,0,0.11305080987596443,Low
+722,Logistics,Mid-Market,Basic,54.88,0,0.11288829475410853,Low
+439,Fintech,Small,Pro,185.82,0,0.11282359962210696,Low
+162,Manufacturing,Small,Basic,56.75,0,0.11190007703361791,Low
+490,Manufacturing,Small,Pro,171.84,0,0.11122692584175589,Low
+1068,Logistics,Small,Pro,220.63,0,0.11041970622116594,Low
+296,Retail,Mid-Market,Basic,61.46,0,0.10996227373383864,Low
+810,Hospitality,Mid-Market,Enterprise,1151.86,0,0.10996128983003475,Low
+178,Manufacturing,Mid-Market,Pro,182.29,0,0.10957193753344567,Low
+116,Legal,Small,Pro,253.5,0,0.10843600767881521,Low
+357,Healthcare,Small,Pro,200.59,0,0.10812858332665182,Low
+135,Hospitality,Small,Basic,48.72,0,0.10640101368303678,Low
+1193,Retail,Small,Pro,250.55,0,0.10602336727995121,Low
+532,Real Estate,Small,Basic,47.18,0,0.10555304917759752,Low
+16,Edtech,Small,Enterprise,813.7,0,0.10547288914603728,Low
+1005,Real Estate,Enterprise,Enterprise,1115.73,0,0.10537533089270036,Low
+53,Fintech,Mid-Market,Pro,195.37,0,0.10520371887094972,Low
+1179,Edtech,Small,Pro,239.08,0,0.10499098832569145,Low
+504,Healthcare,Small,Pro,186.37,0,0.10355053605167149,Low
+1032,Retail,Small,Basic,53.51,0,0.10349597197800682,Low
+461,Real Estate,Small,Enterprise,1140.84,0,0.10318471277566092,Low
+202,Retail,Small,Enterprise,825.17,0,0.10316073049044829,Low
+270,Real Estate,Small,Enterprise,1077.87,0,0.10306014439305455,Low
+210,Manufacturing,Enterprise,Pro,186.68,0,0.10285871312406512,Low
+338,Media,Small,Basic,61.2,0,0.1014032187103873,Low
+1108,Legal,Small,Basic,45.1,0,0.10059908049314152,Low
+294,Manufacturing,Small,Basic,41.96,0,0.10054078805103694,Low
+994,Legal,Small,Basic,58.78,0,0.10027956157206336,Low
+493,Hospitality,Small,Basic,42.51,0,0.10023987485527215,Low
+1145,Real Estate,Small,Pro,194.49,0,0.09968064713019592,Low
+655,Edtech,Mid-Market,Enterprise,1030.33,0,0.09763023315046386,Low
+1007,Legal,Small,Pro,200.87,0,0.09762348527237351,Low
+1079,Retail,Enterprise,Pro,249.8,0,0.09718841739456066,Low
+1095,Retail,Enterprise,Enterprise,1018.31,0,0.09715369982446263,Low
+117,Retail,Small,Pro,203.41,0,0.09687784429927297,Low
+920,Manufacturing,Mid-Market,Basic,46.04,0,0.09654212851310215,Low
+1009,Hospitality,Mid-Market,Pro,219.64,0,0.09638040559959755,Low
+1197,Real Estate,Small,Basic,50.88,0,0.0950290716282759,Low
+1083,Healthcare,Small,Basic,63.19,0,0.09419201610551435,Low
+142,Manufacturing,Mid-Market,Pro,187.06,0,0.0939262540663989,Low
+20,Hospitality,Small,Basic,63.47,0,0.09300264960904893,Low
+66,Retail,Small,Basic,50.0,0,0.0925284101750077,Low
+679,Retail,Mid-Market,Pro,177.87,0,0.09251424861838305,Low
+1169,Manufacturing,Mid-Market,Basic,60.71,0,0.0921431346735941,Low
+561,Manufacturing,Mid-Market,Pro,215.26,0,0.09125119219885412,Low
+872,Healthcare,Small,Pro,234.96,0,0.09109429485133652,Low
+1050,Fintech,Mid-Market,Pro,248.99,0,0.09097533543774597,Low
+403,Real Estate,Enterprise,Basic,45.16,0,0.0899847143721919,Low
+1126,Retail,Enterprise,Pro,249.81,0,0.08988998630958987,Low
+449,Real Estate,Small,Pro,205.92,0,0.08966692152144295,Low
+644,Media,Small,Enterprise,980.36,0,0.08877958101326175,Low
+570,Hospitality,Small,Pro,184.3,0,0.08825982307497894,Low
+105,Media,Small,Basic,54.64,0,0.0879115642058971,Low
+814,Real Estate,Small,Pro,198.88,0,0.08755497354218815,Low
+550,Retail,Enterprise,Basic,63.27,0,0.087525354629596,Low
+80,Fintech,Mid-Market,Pro,239.71,0,0.08643313484236441,Low
+975,Real Estate,Mid-Market,Pro,221.53,0,0.08609139815077542,Low
+879,Fintech,Mid-Market,Enterprise,945.6,0,0.08605293105199142,Low
+395,Logistics,Mid-Market,Enterprise,830.84,0,0.08594300556565061,Low
+1004,Logistics,Mid-Market,Pro,225.46,0,0.08584721631038354,Low
+141,Logistics,Enterprise,Pro,220.18,0,0.0854822061766977,Low
+1182,Logistics,Small,Pro,235.79,0,0.0848274881371655,Low
+774,Media,Small,Enterprise,1159.87,0,0.08462274375665949,Low
+1074,Legal,Mid-Market,Pro,202.38,0,0.0845696297566709,Low
+621,Healthcare,Small,Basic,47.55,0,0.08418556216617583,Low
+618,Manufacturing,Small,Pro,184.06,0,0.08308314899156377,Low
+824,Manufacturing,Mid-Market,Pro,253.42,0,0.08298626738144378,Low
+554,Media,Small,Pro,212.63,0,0.08223097467951633,Low
+1034,Legal,Small,Pro,193.49,0,0.08163394916171672,Low
+670,Legal,Small,Enterprise,779.09,0,0.08140102580065858,Low
+168,Manufacturing,Small,Pro,217.31,0,0.08080660708629539,Low
+737,Legal,Small,Enterprise,846.24,0,0.08053712812614035,Low
+430,Media,Small,Enterprise,986.28,0,0.08040957960742447,Low
+998,Legal,Small,Pro,240.12,0,0.07980402509875745,Low
+724,Hospitality,Small,Enterprise,1040.49,0,0.07976412973707002,Low
+1039,Retail,Mid-Market,Pro,236.55,0,0.07964949711144134,Low
+183,Fintech,Small,Basic,61.46,0,0.07963293119651269,Low
+546,Healthcare,Mid-Market,Pro,240.25,0,0.07926945255193314,Low
+770,Real Estate,Small,Pro,172.17,0,0.0788973481519131,Low
+15,Logistics,Small,Pro,170.79,0,0.07875202122782095,Low
+547,Real Estate,Small,Pro,248.63,0,0.07859137680165115,Low
+238,Media,Small,Enterprise,872.92,0,0.07844516194689682,Low
+138,Hospitality,Enterprise,Pro,195.06,0,0.07827144758003379,Low
+940,Edtech,Small,Basic,53.34,0,0.0773699268317104,Low
+681,Manufacturing,Small,Enterprise,1098.79,0,0.07685165085481481,Low
+76,Retail,Mid-Market,Pro,183.72,0,0.07671778468473506,Low
+633,Media,Small,Basic,45.97,0,0.07633824443069141,Low
+986,Edtech,Mid-Market,Pro,212.67,0,0.07632358093182265,Low
+1060,Manufacturing,Small,Pro,248.39,0,0.07624828040448112,Low
+240,Fintech,Small,Pro,250.49,0,0.07581816386427498,Low
+710,Healthcare,Small,Pro,198.32,0,0.07487089459630882,Low
+1175,Fintech,Small,Pro,240.39,0,0.0747235695216181,Low
+896,Logistics,Mid-Market,Basic,54.12,0,0.07463209031829733,Low
+365,Healthcare,Small,Enterprise,869.89,0,0.07451929435578403,Low
+708,Retail,Small,Pro,181.02,0,0.07434298355580087,Low
+215,Media,Mid-Market,Basic,60.05,0,0.07416374519274131,Low
+1019,Fintech,Mid-Market,Pro,249.53,0,0.0737931060688495,Low
+260,Fintech,Small,Pro,216.52,0,0.07307945690517237,Low
+421,Fintech,Small,Pro,231.83,0,0.07280031916600593,Low
+492,Legal,Small,Basic,46.2,0,0.07273212276961143,Low
+517,Logistics,Small,Enterprise,931.39,0,0.0726884985485243,Low
+616,Healthcare,Small,Basic,48.19,0,0.07241044998770674,Low
+877,Legal,Small,Pro,226.94,0,0.07187321035580545,Low
+457,Fintech,Small,Pro,174.23,0,0.07166483815374929,Low
+265,Legal,Enterprise,Pro,194.29,0,0.07085219165168434,Low
+705,Manufacturing,Mid-Market,Pro,188.01,0,0.07026061126318976,Low
+905,Hospitality,Small,Pro,171.51,0,0.06974331134488058,Low
+707,Real Estate,Mid-Market,Pro,254.89,0,0.06969873080665157,Low
+103,Healthcare,Small,Enterprise,1004.5,0,0.06964418414261851,Low
+56,Fintech,Small,Pro,234.22,0,0.06954632735724695,Low
+335,Legal,Mid-Market,Enterprise,987.32,0,0.06946575927198703,Low
+571,Retail,Small,Pro,231.25,0,0.06906345305407499,Low
+410,Retail,Small,Basic,46.57,0,0.06898263607560863,Low
+259,Manufacturing,Small,Pro,249.05,0,0.06876177052971218,Low
+1194,Legal,Small,Pro,200.6,0,0.06741470444573837,Low
+231,Logistics,Small,Pro,201.8,0,0.06710365354623155,Low
+1105,Legal,Small,Pro,248.77,0,0.0658920981004817,Low
+447,Media,Small,Enterprise,969.97,0,0.06551305453935952,Low
+833,Healthcare,Small,Enterprise,1123.9,0,0.06461814463095683,Low
+876,Fintech,Mid-Market,Pro,238.86,0,0.06453694448152114,Low
+475,Real Estate,Mid-Market,Pro,190.59,0,0.06446332331789571,Low
+225,Real Estate,Mid-Market,Enterprise,963.9,0,0.06442695171747298,Low
+695,Fintech,Mid-Market,Pro,237.85,0,0.0639255902813727,Low
+742,Real Estate,Small,Enterprise,830.89,0,0.06338203938303318,Low
+767,Legal,Small,Pro,196.2,0,0.06299392403426318,Low
+33,Manufacturing,Small,Pro,225.09,0,0.06287751642933367,Low
+564,Healthcare,Small,Pro,188.68,0,0.06284479836905786,Low
+839,Real Estate,Mid-Market,Pro,257.53,0,0.0628291667689593,Low
+57,Hospitality,Small,Pro,211.4,0,0.062144789906679494,Low
+484,Media,Small,Basic,56.09,0,0.06179501074140444,Low
+928,Edtech,Small,Pro,211.4,0,0.061599589127763914,Low
+344,Edtech,Enterprise,Enterprise,981.59,0,0.06150038172124819,Low
+631,Healthcare,Mid-Market,Pro,254.84,0,0.061289096680595845,Low
+187,Fintech,Small,Pro,229.21,0,0.061240518883834874,Low
+1157,Hospitality,Enterprise,Pro,244.85,0,0.06057000323721649,Low
+832,Healthcare,Small,Pro,244.28,0,0.05949237785363047,Low
+1057,Retail,Small,Pro,210.93,0,0.05888490350000846,Low
+36,Legal,Small,Pro,203.52,0,0.05856454087720342,Low
+1152,Healthcare,Enterprise,Basic,61.36,0,0.057761668763950794,Low
+799,Hospitality,Small,Pro,194.47,0,0.057738758967452064,Low
+316,Manufacturing,Enterprise,Pro,252.46,0,0.057349680951505784,Low
+1073,Media,Small,Enterprise,825.07,0,0.05710067399832739,Low
+160,Logistics,Mid-Market,Pro,171.58,0,0.05695155693567993,Low
+929,Healthcare,Small,Pro,195.06,0,0.056828342394772434,Low
+961,Hospitality,Small,Enterprise,839.17,0,0.05626658880848587,Low
+972,Legal,Small,Pro,227.14,0,0.05604321519516387,Low
+193,Edtech,Small,Pro,179.61,0,0.05525978693961964,Low
+293,Legal,Small,Pro,205.22,0,0.05516473920336627,Low
+1092,Media,Small,Pro,210.68,0,0.055103901435719846,Low
+426,Manufacturing,Small,Pro,217.75,0,0.05465226355749569,Low
+30,Healthcare,Mid-Market,Enterprise,1137.16,0,0.054473266100664795,Low
+515,Retail,Enterprise,Pro,199.17,0,0.054394160758511084,Low
+878,Healthcare,Small,Pro,225.05,0,0.05426776677284549,Low
+584,Retail,Small,Pro,180.34,0,0.054142607526986464,Low
+729,Hospitality,Mid-Market,Enterprise,991.5,0,0.054054155952640424,Low
+1012,Retail,Enterprise,Pro,225.57,0,0.05376125612665978,Low
+924,Manufacturing,Small,Pro,237.1,0,0.05362314130148422,Low
+868,Real Estate,Small,Pro,208.99,0,0.053322344646455765,Low
+1156,Healthcare,Mid-Market,Pro,236.2,0,0.053201015381603184,Low
+581,Retail,Mid-Market,Enterprise,937.43,0,0.052383941886872884,Low
+149,Legal,Enterprise,Pro,179.75,0,0.05236760910665782,Low
+182,Edtech,Small,Pro,256.99,0,0.05111380678805175,Low
+904,Legal,Small,Pro,254.05,0,0.0510196298796774,Low
+789,Healthcare,Small,Pro,173.16,0,0.05099431831528852,Low
+432,Hospitality,Small,Enterprise,801.52,0,0.050837991092908014,Low
+706,Logistics,Small,Pro,210.12,0,0.050760870391050414,Low
+787,Logistics,Small,Enterprise,1140.77,0,0.05054800633191536,Low
+366,Hospitality,Mid-Market,Pro,209.93,0,0.050406365084591155,Low
+1047,Logistics,Small,Pro,199.75,0,0.050016758264680584,Low
+339,Legal,Small,Enterprise,1045.56,0,0.04945399523519138,Low
+91,Hospitality,Small,Pro,257.04,0,0.04940306347027989,Low
+594,Real Estate,Enterprise,Pro,230.27,0,0.0492758964589395,Low
+599,Healthcare,Small,Basic,61.99,0,0.047609837665053764,Low
+545,Hospitality,Small,Enterprise,1100.14,0,0.04740276685924638,Low
+612,Media,Small,Pro,178.97,0,0.04734905294633109,Low
+900,Healthcare,Small,Pro,219.88,0,0.04710910061182865,Low
+1030,Edtech,Small,Basic,61.36,0,0.046846348342132436,Low
+118,Healthcare,Mid-Market,Enterprise,931.43,0,0.0468316955180626,Low
+4,Legal,Small,Pro,236.34,0,0.04614203581020126,Low
+41,Edtech,Small,Pro,206.38,0,0.0461263613911208,Low
+388,Fintech,Mid-Market,Pro,191.78,0,0.045329247211874216,Low
+614,Fintech,Small,Enterprise,1069.54,0,0.04508060711901826,Low
+686,Media,Small,Pro,239.2,0,0.0450355230101805,Low
+847,Retail,Mid-Market,Pro,244.21,0,0.04437801378633172,Low
+630,Legal,Mid-Market,Pro,206.54,0,0.04427733324783667,Low
+1028,Media,Small,Pro,249.49,0,0.04416056200124847,Low
+1110,Retail,Small,Pro,221.54,0,0.04363679647643574,Low
+626,Hospitality,Small,Pro,206.38,0,0.04344879250393394,Low
+375,Hospitality,Mid-Market,Enterprise,826.01,0,0.043259797431634,Low
+658,Hospitality,Enterprise,Pro,213.55,0,0.04319781032836487,Low
+1024,Healthcare,Small,Enterprise,961.69,0,0.04262260514537135,Low
+171,Legal,Small,Enterprise,1128.26,0,0.042467273856353425,Low
+893,Fintech,Small,Pro,235.16,0,0.04210706487845918,Low
+617,Media,Small,Pro,219.54,0,0.04178656262919607,Low
+255,Edtech,Mid-Market,Enterprise,926.56,0,0.040798566470783545,Low
+888,Media,Enterprise,Enterprise,932.17,0,0.040756800835505126,Low
+164,Logistics,Small,Pro,217.26,0,0.04053705297777509,Low
+845,Healthcare,Small,Pro,187.63,0,0.040225485884519734,Low
+804,Media,Small,Pro,229.03,0,0.04010623147772778,Low
+997,Real Estate,Small,Pro,174.87,0,0.03986364805551132,Low
+301,Hospitality,Small,Enterprise,883.84,0,0.03983014527724567,Low
+485,Healthcare,Small,Pro,234.13,0,0.03938214672975516,Low
+412,Logistics,Small,Enterprise,1100.24,0,0.039306036077270894,Low
+208,Media,Small,Pro,201.04,0,0.039123727034177117,Low
+974,Hospitality,Small,Enterprise,1128.06,0,0.03825889677294781,Low
+910,Edtech,Enterprise,Pro,212.23,0,0.037682604661509085,Low
+851,Edtech,Small,Pro,217.89,0,0.03765967563649726,Low
+539,Logistics,Small,Enterprise,1146.19,0,0.036966027106730685,Low
+677,Media,Mid-Market,Enterprise,822.7,0,0.036832990974353406,Low
+818,Retail,Enterprise,Enterprise,1115.54,0,0.036804227048459134,Low
+370,Logistics,Small,Pro,172.31,0,0.03678323820364032,Low
+1131,Fintech,Small,Enterprise,896.85,0,0.03648168538600352,Low
+186,Edtech,Mid-Market,Pro,216.57,0,0.036281949824613594,Low
+1198,Retail,Mid-Market,Pro,207.13,0,0.036124502865455606,Low
+114,Real Estate,Small,Pro,246.69,0,0.036032288585906,Low
+863,Legal,Small,Pro,223.89,0,0.035889461446113075,Low
+94,Retail,Small,Pro,230.05,0,0.03538641605775651,Low
+1136,Media,Small,Pro,232.4,0,0.03518626069366928,Low
+285,Fintech,Small,Enterprise,936.35,0,0.03469587481211758,Low
+354,Edtech,Small,Enterprise,1084.96,0,0.03454112257816042,Low
+657,Healthcare,Small,Pro,257.74,0,0.03436281007307323,Low
+429,Legal,Mid-Market,Pro,193.28,0,0.03340586046840197,Low
+781,Fintech,Mid-Market,Pro,232.42,0,0.0332502295263037,Low
+784,Real Estate,Small,Enterprise,1144.36,0,0.03279840907466678,Low
+569,Healthcare,Small,Enterprise,1102.76,0,0.03251921046115588,Low
+948,Manufacturing,Small,Enterprise,1153.57,0,0.03232311316777727,Low
+227,Legal,Small,Enterprise,865.08,0,0.032106556625322934,Low
+404,Logistics,Mid-Market,Pro,226.83,0,0.03189921790319786,Low
+513,Logistics,Small,Enterprise,929.74,0,0.03148318335124834,Low
+159,Healthcare,Enterprise,Pro,193.74,0,0.03049712384013981,Low
+611,Healthcare,Mid-Market,Enterprise,1028.92,0,0.030366141546853905,Low
+1013,Healthcare,Enterprise,Pro,229.13,0,0.02977249614098042,Low
+828,Real Estate,Mid-Market,Enterprise,920.86,0,0.029534585304510533,Low
+396,Media,Small,Pro,217.29,0,0.029513219228035185,Low
+699,Real Estate,Small,Enterprise,1099.12,0,0.029398090492246294,Low
+883,Real Estate,Small,Enterprise,1160.6,0,0.029352991621620514,Low
+1064,Healthcare,Mid-Market,Enterprise,933.86,0,0.028915272925002664,Low
+427,Manufacturing,Small,Enterprise,1001.7,0,0.028843479054668376,Low
+503,Logistics,Small,Enterprise,888.73,0,0.028448208637165143,Low
+580,Fintech,Mid-Market,Enterprise,892.23,0,0.028321087946906937,Low
+155,Hospitality,Small,Enterprise,1123.1,0,0.027582988411800364,Low
+534,Real Estate,Small,Enterprise,980.16,0,0.027356801756470765,Low
+61,Legal,Small,Enterprise,1079.91,0,0.026844134915384725,Low
+431,Edtech,Small,Enterprise,832.94,0,0.026773795120637923,Low
+124,Media,Small,Enterprise,798.0,0,0.02640519461860314,Low
+306,Healthcare,Small,Pro,248.39,0,0.025706051282798886,Low
+603,Media,Small,Pro,204.81,0,0.025607922061330075,Low
+146,Healthcare,Mid-Market,Enterprise,894.15,0,0.025052423124998672,Low
+445,Real Estate,Small,Enterprise,804.93,0,0.024723785991218675,Low
+1003,Edtech,Small,Pro,246.32,0,0.024704055623772994,Low
+906,Fintech,Small,Pro,214.13,0,0.024520939479009577,Low
+647,Logistics,Small,Enterprise,993.85,0,0.024168135694904225,Low
+557,Media,Small,Enterprise,1067.34,0,0.023803760196506533,Low
+666,Healthcare,Small,Enterprise,879.98,0,0.02371777925561275,Low
+241,Retail,Small,Enterprise,1130.78,0,0.023526712174149873,Low
+340,Real Estate,Small,Enterprise,909.45,0,0.023174345119475803,Low
+601,Healthcare,Enterprise,Enterprise,1155.69,0,0.0230716917991136,Low
+1040,Logistics,Small,Enterprise,953.8,0,0.02209287452673972,Low
+947,Fintech,Mid-Market,Enterprise,827.82,0,0.020792944528539567,Low
+827,Media,Small,Pro,206.6,0,0.02039486131044042,Low
+464,Edtech,Small,Enterprise,811.38,0,0.02022742548765399,Low
+1097,Legal,Enterprise,Enterprise,962.85,0,0.016746603329111556,Low
+566,Retail,Small,Enterprise,872.09,0,0.014268373484499157,Low
+248,Legal,Small,Enterprise,885.75,0,0.013806394156480698,Low
+121,Edtech,Small,Enterprise,893.63,0,0.012860114410343666,Low
+311,Logistics,Small,Enterprise,956.81,0,0.0072332184835620815,Low
